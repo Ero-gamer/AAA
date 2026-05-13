@@ -1,29 +1,19 @@
 <img src="img/AAA_long_plain.svg" width="60%" alt="AwesomeAndroidAlternativesBanner">
 
-## Introduction
+## Introduction:
 
-This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyhackological/AAA/graphs/contributors). You can prove us wrong on the [contributing page](CONTRIBUTING.md).
+This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-gamer/AAA/graphs/contributors).
 
-> App Name :heart: = Someone's Personal Favourite
->
-> [Why does it exist?](WHY.md)
->
+
 > Please use `Home` button to go to the top.
 
 ### Rules
 
-- [x] Open Sourced
+- [x] Open Source
 - [x] Free of charge (on [F-Droid](#f-droid) and source code repository releases)
 - [x] Free as in Freedom
 - [x] Ad-free
-- [x] Installed and tested by me or by contributor
-- [x] [Privacy-friendly aware](PRIVACY_MANUAL.md)
-- [x] Easy to use
 - [x] Still in development or polished experience
-- [x] Does not lack features compared to proprietary app
-- [x] Does not need an account (the only exceptions are [self-hosted](#self-hosted) apps)
-- [x] Has dark theme
-  > [More detailed explanation here.](RULES.md)
 
 **AWESOME** apps counter: **268** 🎉
 
