@@ -2823,11 +2823,7 @@ Currently being reworked as Neo Launcher.
 
 ## Special thanks to
 
-### AWESOME PEOPLE that developed or still develops this AWESOME SOFTWARE
-
-### Contributors to this repo
-
-[![GitHub contributors](https://contrib.rocks/image?repo=Psyhackological/AAA)](https://github.com/Psyhackological/AAA/graphs/contributors)
+### AWESOME PEOPLE that developed or still develops this AWESOME SOFTWARE.
 
 ### pluja/[awesome-privacy](https://github.com/pluja/awesome-privacy)
 
