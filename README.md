@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Apps](https://img.shields.io/badge/Awesome_Apps-289-brightgreen?style=for-the-badge)](https://github.com/Ero-gamer/AAA)
+[![Apps](https://img.shields.io/badge/Awesome_Apps-293-brightgreen?style=for-the-badge)](https://github.com/Ero-gamer/AAA)
 [![FOSS](https://img.shields.io/badge/100%25-FOSS-blue?style=for-the-badge)](https://github.com/Ero-gamer/AAA)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-orange?style=for-the-badge&logo=github)](https://github.com/Ero-gamer/AAA)
 
@@ -14,7 +14,7 @@
 
 ## 📖 Introduction
 
-A curated list of **THE BEST FOSS apps** according to [us](https://github.com/Ero-gamer/AAA/graphs/contributors), updated regularly.
+A curated list of **THE BEST FOSS apps** according to [us](https://github.com/Ero-gamer/AAA/graphs/contributors).
 
 > 💡 Use `Home` or the [⬆ Go back ⬆](#contents) link at the bottom to return to the top.
 > Each category is **collapsible** — click the heading to expand.
@@ -27,7 +27,7 @@ A curated list of **THE BEST FOSS apps** according to [us](https://github.com/Er
 - [x] Ad-free
 - [x] Actively maintained or a polished finished product
 
-**AWESOME** apps counter: **290+** 🎉
+**AWESOME** apps counter: **293** 🎉
 
 ---
 
@@ -128,6 +128,8 @@ UQAN5OUU7YjxFPEPP0-LC62lWL_CF_LqgVhz9qjbvzLhb74F
 | 101 | [🛡️ VPN](#️-vpn-) | 102 | [👛 Wallet](#-wallet) |
 | 103 | [🌤️ Weather](#️-weather) | 104 | [📖 Wikipedia](#-wikipedia) |
 | 105 | [💪 Workout](#-workout) | 106 | [▶️ YouTube](#️-youtube) |
+| 107 | [🍽️ Recipe Manager](#️-recipe-manager) | 108 | [🦠 Malware Scanner](#-malware-scanner) |
+
 
 </details>
 
@@ -1032,6 +1034,17 @@ UQAN5OUU7YjxFPEPP0-LC62lWL_CF_LqgVhz9qjbvzLhb74F
 - [x] [GitHub](https://github.com/ProtonMail/android-mail)
 - [x] [Official page](https://proton.me/mail)
 
+### Thunderbird
+
+<img alt="ThunderbirdIcon" height="64" src="https://raw.githubusercontent.com/thunderbird/thunderbird-android/main/artwork/icon-512.png">
+
+> Powerful, privacy-focused email app from Mozilla — unified inbox, OpenPGP encryption support
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=net.thunderbird.android)
+- [x] [F-Droid](https://f-droid.org/packages/net.thunderbird.android/)
+- [x] [GitHub](https://github.com/thunderbird/thunderbird-android)
+- [x] [Official page](https://www.thunderbird.net/mobile/)
+
 ### SimpleLogin
 
 <img alt="SimpleLoginIcon" height="64" src="https://raw.githubusercontent.com/simple-login/Simple-Login-Android/master/SimpleLogin/app/src/main/ic_launcher-playstore.png">
@@ -1714,6 +1727,17 @@ UQAN5OUU7YjxFPEPP0-LC62lWL_CF_LqgVhz9qjbvzLhb74F
 - [x] [GitHub](https://github.com/deltachat/deltachat-android)
 - [x] [Official page](https://delta.chat/en/)
 
+
+### Conversations
+
+<img alt="ConversationsIcon" height="64" src="https://raw.githubusercontent.com/iNPUTmice/Conversations/master/fastlane/metadata/android/en-US/images/icon.png">
+
+> Feature-rich XMPP/Jabber client — OMEMO encryption, audio/video calls, file sharing
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=eu.siacs.conversations)
+- [x] [F-Droid](https://f-droid.org/en/packages/eu.siacs.conversations/)
+- [x] [GitHub](https://github.com/iNPUTmice/Conversations)
+- [x] [Official page](https://conversations.im/)
 
 ### Snikket
 
@@ -3450,6 +3474,17 @@ UQAN5OUU7YjxFPEPP0-LC62lWL_CF_LqgVhz9qjbvzLhb74F
 - [x] [GitHub](https://github.com/WireGuard/wireguard-android)
 - [x] [Official page](https://www.wireguard.com/)
 
+### WG Tunnel
+
+<img alt="WGTunnelIcon" height="64" src="https://raw.githubusercontent.com/wgtunnel/wgtunnel/master/fastlane/metadata/android/en-US/images/icon.png">
+
+> WireGuard & AmneziaWG client — auto-tunneling by SSID, lockdown mode, FOSS alternative to the official app
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/com.zaneschepke.wireguardautotunnel/)
+- [x] [GitHub](https://github.com/wgtunnel/wgtunnel)
+- [x] [Official page](https://wgtunnel.com/)
+
 </details>
 
 ---
@@ -3699,6 +3734,43 @@ UQAN5OUU7YjxFPEPP0-LC62lWL_CF_LqgVhz9qjbvzLhb74F
 </details>
 
 ---
+
+<details>
+<summary><h2>🍽️ Recipe Manager</h2></summary>
+
+### KitchenOwl
+
+<img alt="KitchenOwlIcon" height="64" src="https://raw.githubusercontent.com/TomBursch/kitchenowl/main/kitchenowl/assets/icons/icon.png">
+
+> Self-hosted grocery list & recipe manager — real-time sync, expense tracking, offline support
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.tombursch.kitchenowl)
+- [x] [F-Droid](https://f-droid.org/packages/com.tombursch.kitchenowl/)
+- [x] [GitHub](https://github.com/TomBursch/kitchenowl)
+- [x] [Official page](https://kitchenowl.org/)
+
+</details>
+
+---
+
+<details>
+<summary><h2>🦠 Malware Scanner</h2></summary>
+
+### Hypatia
+
+<img alt="HypatiaIcon" height="64" src="https://f-droid.org/repo/us.spotco.malwarescanner/en-US/icon.png">
+
+> World's first FOSS realtime malware scanner for Android — ClamAV signatures, near-zero battery impact, fully offline
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/us.spotco.malwarescanner/)
+- [x] [GitHub](https://github.com/Divested-Mobile/Hypatia)
+- [ ] Official page
+
+</details>
+
+---
+
 
 ## 🙏 Special Thanks To
 
