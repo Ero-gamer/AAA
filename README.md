@@ -1,133 +1,145 @@
-<img src="img/AAA_long_plain.svg" width="60%" alt="AwesomeAndroidAlternativesBanner">
+<div align="center">
+  <img src="img/AAA_long_plain.svg" width="60%" alt="Awesome Android Alternatives Banner">
+</div>
 
-## Introduction:
+<div align="center">
 
-This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-gamer/AAA/graphs/contributors).
+[![Apps](https://img.shields.io/badge/Awesome_Apps-289-brightgreen?style=for-the-badge)](https://github.com/Ero-gamer/AAA)
+[![FOSS](https://img.shields.io/badge/100%25-FOSS-blue?style=for-the-badge)](https://github.com/Ero-gamer/AAA)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-orange?style=for-the-badge&logo=github)](https://github.com/Ero-gamer/AAA)
 
+</div>
 
-> Please use `Home` button to go to the top.
+---
 
-### Rules
+## 📖 Introduction
+
+A curated list of **THE BEST FOSS apps** according to [us](https://github.com/Ero-gamer/AAA/graphs/contributors), updated regularly.
+
+> 💡 Use `Home` or the [⬆ Go back ⬆](#contents) link at the bottom to return to the top.
+> Each category is **collapsible** — click the heading to expand.
+
+### ✅ Rules
 
 - [x] Open Source
-- [x] Free of charge (on [F-Droid](#f-droid) and source code repository releases)
+- [x] Free of charge (on [F-Droid](#-f-droid) and source code releases)
 - [x] Free as in Freedom
 - [x] Ad-free
-- [x] Still in development or polished experience
+- [x] Actively maintained or a polished finished product
 
-**AWESOME** apps counter: **268** 🎉
+**AWESOME** apps counter: **290+** 🎉
 
-### Contents
+---
 
-- [2FA](#2fa)
-- [Ads & Trackers](#ads--trackers)
-- [AI](#ai)
-- [Alarm](#alarm)
-- [Android Customization](#android-customization)
-- [Anime & Manga](#anime--manga)
-- [App Backup](#app-backup)
-- [Background Noise](#background-noise)
-- [Barcode Scanner](#barcode-scanner)
-- [Browser](#browser)
-- [Calculator](#calculator)
-- [Calendar](#calendar)
-- [Camera](#camera)
-- [ChatGPT](#chatgpt)
-- [Chess](#chess)
-- [Cocktails Making](#coctails-making)
-- [Contacts](#contacts)
-- [Decision-Making](#decision-making)
-- [Device Synchronization](#device-synchronization)
-- [Dialer](#dialer)
-- [Diary](#diary)
-- [Discord](#discord)
-- [Document Scanner](#document-scanner)
-- [Download Manager](#download-manager)
-- [Drawing](#drawing)
-- [E-book Reader](#e-book-reader)
-- [Email](#email)
-- [Emulation](#emulation)
-- [F-Droid](#f-droid)
-- [File Manager](#file-manager)
-- [File Synchronization](#file-synchronization)
-- [Finance](#finance)
-- [Firewall](#firewall)
-- [Flash Cards](#flash-cards)
-- [Flashlight](#flashlight)
-- [Forgejo & Gitea](#forgejo--gitea)
-- [Gallery](#gallery)
-- [Games](#games)
-- [GitHub Client](#github-client)
-- [Google Play](#google-play)
-- [Health](#health)
-- [Icon Pack](#icon-pack)
-- [IDE](#IDE)
-- [Image Processing](#image-processing)
-- [Instant Messaging](#instant-messaging)
-- [Keyboard](#keyboard)
-- [Knowledge](#knowledge)
-- [Language](#language)
-- [Launcher](#launcher)
-- [Lemmy](#lemmy)
-- [Loyalty Card](#loyalty-card)
-- [Maps](#maps)
-- [Mastodon](#Mastodon)
-- [Matrix Client](#matrix-client)
-- [Meditation](#meditation)
-- [Music Downloader](#music-downloader)
-- [Music Player](#music-player)
-- [Music Scrobblers](#music-scrobbler)
-- [Notes](#notes)
-- [OCR](#ocr)
-- [Office Suite](#office-suite)
-- [Package Manager](#package-manager)
-- [Password Manager](#password-manager)
-- [PDF Viewer](#pdf-viewer)
-- [Plants](#plants)
-- [Podcast](#podcast)
-- [Public Transport Assistant](#public-transport-assistant)
-- [Reddit](#reddit)
-- [RNG](#rng)
-- [RSS Reader](#rss-reader)
-- [Self Hosted](#self-hosted)
-- [Shazam](#shazam)
-- [SMS Messenger](#sms-messenger)
-- [Spotify](#spotify)
-- [SSH client](#ssh-client)
-- [Stargazing](#stargazing)
-- [Step Counting](#step-counting)
-- [Streaming](#streaming)
-- [Survival](#survival)
-- [System Cleaner](#system-cleaner)
-- [Terminal Emulator](#terminal-emulator)
-- [Text Editor](#text-editor)
-- [Timers](#timers)
-- [To-Do List](#to-do-list)
-- [Torrenting](#torrenting)
-- [Trackers](#trackers)
-- [Translator](#translator)
-- [Twitch](#twitch)
-- [Unit Converter](#unit-converter)
-- [URL Cleaner](#url-cleaner)
-- [Video Player](#video-player)
-- [VNC client](#vnc-client)
-- [VNC server](#vnc-server)
-- [Voice Recorder](#voice-recorder)
-- [Wallet](#wallet)
-- [Weather](#weather)
-- [Wikipedia](#wikipedia)
-- [Workout](#workout)
-- [YouTube](#youtube)
+## ☕ Support This List
 
-### [Special Thanks](#special-thanks-to)
+If this list helped you, consider supporting the maintainer:
 
-## 2FA
+![Bitcoin](https://img.shields.io/badge/Bitcoin-EAB300?style=for-the-badge&logo=Bitcoin%20SV&logoColor=white)
+```
+19Zks5VmhPtPPiZNHQUv71vfLyEeCtec2T
+```
+
+![Tether](https://img.shields.io/badge/USDT%20(TRC20)-168363?style=for-the-badge&logo=tether&logoColor=white)
+```
+TAxmtUbhiWEgY9bDQbgaaTPcmoS8EfJkKR
+```
+
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+```
+0x7f92c4a838286a48f007419c9707f9096dc6675d
+```
+
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+```
+5KCKZtKtYd9J5UB4VW3HJny4cBWKAJktmGUkfxsdsh9S
+```
+
+![TON](https://img.shields.io/badge/TON-0098EA?style=for-the-badge&logo=telegram&logoColor=white)
+```
+UQAN5OUU7YjxFPEPP0-LC62lWL_CF_LqgVhz9qjbvzLhb74F
+```
+
+![Binance](https://img.shields.io/badge/Binance%20ID%20(UID)-F0B90B?style=for-the-badge&logo=binance&logoColor=white)
+```
+583622748
+```
+
+---
+
+## 📚 Contents
+
+<details>
+<summary>Click to expand full table of contents</summary>
+<br>
+
+| # | Category | # | Category |
+|---|----------|---|----------|
+| 1 | [🔐 2FA](#-2fa) | 2 | [🛡️ Ads & Trackers](#️-ads--trackers) |
+| 3 | [🤖 AI](#-ai) | 4 | [⏰ Alarm](#-alarm) |
+| 5 | [🔧 Android Customization](#-android-customization) | 6 | [📖 Anime & Manga](#-anime--manga) |
+| 7 | [💾 App Backup](#-app-backup) | 8 | [🎵 Background Noise](#-background-noise) |
+| 9 | [📷 Barcode Scanner](#-barcode-scanner) | 10 | [🌐 Browser](#-browser) |
+| 11 | [🔢 Calculator](#-calculator) | 12 | [📅 Calendar](#-calendar) |
+| 13 | [📸 Camera](#-camera) | 14 | [💬 ChatGPT](#-ai) |
+| 15 | [♟️ Chess](#️-chess) | 16 | [☁️ Cloud](#️-cloud-) |
+| 17 | [🍹 Cocktails Making](#-cocktails-making) | 18 | [👤 Contacts](#-contacts) |
+| 19 | [🎲 Decision-Making](#-decision-making) | 20 | [🔗 Device Synchronization](#-device-synchronization) |
+| 21 | [📞 Dialer](#-dialer) | 22 | [📔 Diary](#-diary) |
+| 23 | [💬 Discord](#-discord) | 24 | [🔍 Document Scanner](#-document-scanner) |
+| 25 | [⬇️ Download Manager](#️-download-manager) | 26 | [🎨 Drawing](#-drawing) |
+| 27 | [📚 E-book Reader](#-e-book-reader) | 28 | [📧 Email](#-email) |
+| 29 | [🎮 Emulation](#-emulation) | 30 | [📦 F-Droid](#-f-droid) |
+| 31 | [📁 File Manager](#-file-manager) | 32 | [🔄 File Synchronization](#-file-synchronization) |
+| 33 | [💰 Finance](#-finance) | 34 | [🔥 Firewall](#-firewall) |
+| 35 | [🃏 Flash Cards](#-flash-cards) | 36 | [🔦 Flashlight](#-flashlight) |
+| 37 | [🦊 Forgejo & Gitea](#-forgejo--gitea) | 38 | [🖼️ Gallery](#️-gallery) |
+| 39 | [🎮 Games](#-games) | 40 | [🐙 GitHub Client](#-github-client) |
+| 41 | [🏪 Google Play](#-google-play) | 42 | [🗞️ Hacker News](#️-hacker-news-) |
+| 43 | [🏥 Health](#-health) | 44 | [🎨 Icon Pack](#-icon-pack) |
+| 45 | [💻 IDE](#-ide) | 46 | [🖼️ Image Processing](#️-image-processing) |
+| 47 | [💬 Instant Messaging](#-instant-messaging) | 48 | [⌨️ Keyboard](#️-keyboard) |
+| 49 | [🧠 Knowledge](#-knowledge) | 50 | [🗣️ Language](#️-language) |
+| 51 | [🚀 Launcher](#-launcher) | 52 | [🐾 Lemmy](#-lemmy) |
+| 53 | [🎫 Loyalty Card](#-loyalty-card) | 54 | [🗺️ Maps](#️-maps) |
+| 55 | [🐘 Mastodon](#-mastodon) | 56 | [🔷 Matrix Client](#-matrix-client) |
+| 57 | [🧘 Meditation](#-meditation) | 58 | [⬇️ Music Downloader](#️-music-downloader) |
+| 59 | [🎵 Music Player](#-music-player) | 60 | [📻 Music Scrobbler](#-music-scrobbler) |
+| 61 | [⚡ Nostr](#-nostr-) | 62 | [📝 Notes](#-notes) |
+| 63 | [🔤 OCR](#-ocr) | 64 | [📄 Office Suite](#-office-suite) |
+| 65 | [📦 Package Manager](#-package-manager) | 66 | [🔑 Password Manager](#-password-manager) |
+| 67 | [📄 PDF Viewer](#-pdf-viewer) | 68 | [🌸 Pixelfed](#-pixelfed-) |
+| 69 | [🌿 Plants](#-plants) | 70 | [🎙️ Podcast](#️-podcast) |
+| 71 | [🚌 Public Transport](#-public-transport-assistant) | 72 | [📻 Radio](#-radio-) |
+| 73 | [👽 Reddit](#-reddit) | 74 | [🎲 RNG](#-rng) |
+| 75 | [📰 RSS Reader](#-rss-reader) | 76 | [🏠 Self Hosted](#-self-hosted) |
+| 77 | [🎵 Shazam](#-shazam) | 78 | [💬 SMS Messenger](#-sms-messenger) |
+| 79 | [🎵 Spotify](#-spotify) | 80 | [🔐 SSH Client](#-ssh-client) |
+| 81 | [🌟 Stargazing](#-stargazing) | 82 | [👟 Step Counting](#-step-counting) |
+| 83 | [📺 Streaming](#-streaming) | 84 | [🏕️ Survival](#️-survival) |
+| 85 | [🧹 System Cleaner](#-system-cleaner) | 86 | [🖥️ Terminal Emulator](#️-terminal-emulator) |
+| 87 | [✍️ Text Editor](#️-text-editor) | 88 | [⏱️ Timers](#️-timers) |
+| 89 | [✅ To-Do List](#-to-do-list) | 90 | [🌊 Torrenting](#-torrenting) |
+| 91 | [📊 Trackers](#-trackers) | 92 | [🌐 Translator](#-translator) |
+| 93 | [🎮 Twitch](#-twitch) | 94 | [🐦 Twitter / X](#-twitter--x-) |
+| 95 | [📏 Unit Converter](#-unit-converter) | 96 | [🔗 URL Cleaner](#-url-cleaner) |
+| 97 | [🎬 Video Player](#-video-player) | 98 | [🖥️ VNC Client](#️-vnc-client) |
+| 99 | [📡 VNC Server](#-vnc-server) | 100 | [🎤 Voice Recorder](#-voice-recorder) |
+| 101 | [🛡️ VPN](#️-vpn-) | 102 | [👛 Wallet](#-wallet) |
+| 103 | [🌤️ Weather](#️-weather) | 104 | [📖 Wikipedia](#-wikipedia) |
+| 105 | [💪 Workout](#-workout) | 106 | [▶️ YouTube](#️-youtube) |
+
+</details>
+
+---
+<details>
+<summary><h2>🔐 2FA</h2></summary>
 
 ### Aegis :heart:
 
 <img alt="AegisIcon" height="64" src="https://raw.githubusercontent.com/beemdevelopment/Aegis/master/app/src/main/res/drawable/ic_aegis_iconx.png">
 
-- [x] [Google Play](http://play.google.com/store/apps/details?id=com.beemdevelopment.aegis)
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis)
 - [x] [F-Droid](https://f-droid.org/app/com.beemdevelopment.aegis)
 - [x] [GitHub](https://github.com/beemdevelopment/Aegis)
 - [x] [Official page](https://getaegis.app/)
@@ -150,7 +162,12 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 - [x] [GitHub](https://github.com/ente-io/ente/tree/main/auth#readme)
 - [x] [Official page](https://ente.io/)
 
-## Ads & Trackers
+</details>
+
+---
+
+<details>
+<summary><h2>🛡️ Ads & Trackers</h2></summary>
 
 ### AdAway
 
@@ -222,24 +239,31 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.trianguloy.urlchecker)
 - [x] [F-Droid](https://f-droid.org/packages/com.trianguloy.urlchecker/)
 - [x] [GitHub](https://github.com/TrianguloY/UrlChecker)
-- [x] [Official page](https://f-droid.org/packages/com.trianguloy.urlchecker/)
+- [x] [Official page](https://trianguloy.github.io/UrlChecker)
 
 ### Exodus
 
 <img alt="ExodusIcon" height="64" src="https://raw.githubusercontent.com/Exodus-Privacy/exodus-android-app/master/app/src/main/ic_launcher-playstore.png">
+
+> Audit app trackers and permissions — know exactly what your apps are sending
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.eu.exodus_privacy.exodusprivacy)
 - [x] [F-Droid](https://f-droid.org/packages/org.eu.exodus_privacy.exodusprivacy/)
 - [x] [GitHub](https://github.com/Exodus-Privacy/exodus-android-app)
 - [x] [Official page](https://exodus-privacy.eu.org/)
 
-## AI
+</details>
+
+---
+
+<details>
+<summary><h2>🤖 AI</h2></summary>
 
 ### whoBIRD
 
-> Identify bird sounds in real time
-
 <img alt="whoBIRDIcon" height="64" src="https://raw.githubusercontent.com/woheller69/whoBIRD/master/fastlane/metadata/android/en-US/images/icon.png">
+
+> Identify bird sounds in real time using on-device AI
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/org.woheller69.whobird/)
@@ -248,16 +272,32 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 
 ### TIDY
 
-> Text-to-Image Discovery
-
 <img alt="TIDYIcon" height="64" src="https://raw.githubusercontent.com/slavabarkov/tidy/refs/heads/main/app/src/main/ic_launcher-playstore.png">
+
+> Text-to-Image Discovery — find images by describing them
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/com.slavabarkov.tidy/)
 - [x] [GitHub](https://github.com/slavabarkov/tidy)
 - [ ] Official page
 
-## Alarm
+### ChatGPT Android
+
+<img alt="ChatGPTAndroidIcon" height="64" src="https://raw.githubusercontent.com/skydoves/chatgpt-android/refs/heads/main/app/src/main/res/drawable/openai.jpeg">
+
+> Open-source Android UI client for OpenAI's API
+
+- [ ] Google Play
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/skydoves/chatgpt-android)
+- [ ] Official page
+
+</details>
+
+---
+
+<details>
+<summary><h2>⏰ Alarm</h2></summary>
 
 ### Clock :heart:
 
@@ -295,11 +335,16 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 - [x] [GitHub](https://github.com/vicolo-dev/chrono)
 - [ ] Official page
 
-## Android Customization
+</details>
 
-### Magisk️
+---
 
-<img alt="Magisk️Icon" height="64" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Magisk_Logo.png">
+<details>
+<summary><h2>🔧 Android Customization</h2></summary>
+
+### Magisk
+
+<img alt="MagiskIcon" height="64" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Magisk_Logo.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/com.topjohnwu.magisk/)
@@ -328,30 +373,41 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 
 <img alt="AmarokIcon" height="64" src="https://raw.githubusercontent.com/deltazefiro/Amarok-Hider/main/app/src/main/res/mipmap-hdpi/ic_launcher.png">
 
+> Hide private files and apps with one tap
+
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/pl/packages/deltazero.amarok.foss/)
 - [x] [GitHub](https://github.com/deltazefiro/Amarok-Hider)
 - [x] [Official page](https://deltazefiro.github.io/Amarok-doc/)
 
-## Anime & Manga
+### ColorBlendr ⭐
+
+<img alt="ColorBlendrIcon" height="64" src="https://raw.githubusercontent.com/Mahmud0808/ColorBlendr/main/app/src/main/ic_launcher-playstore.png">
+
+> Customize Android's Material You color palette directly — tweak every system color
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/com.drdisagree.colorblendr/)
+- [x] [GitHub](https://github.com/Mahmud0808/ColorBlendr)
+- [ ] Official page
+
+</details>
+
+---
+
+<details>
+<summary><h2>📖 Anime & Manga</h2></summary>
 
 ### Aniyomi :heart:
 
 <img alt="AniyomiIcon" height="64" src="https://raw.githubusercontent.com/jmir1/aniyomi/master/.github/readme-images/app-icon.png">
 
+> Full-featured manga + anime reader with extensions support
+
 - [ ] Google Play
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/jmir1/aniyomi)
-- [x] [Official page](https://aniyomi.jmir.xyz/)
-
-### TachiyomiAZ
-
-<img alt="TachiyomiAZIcon" height="64" src="https://raw.githubusercontent.com/az4521/TachiyomiAZ/master/app/src/main/ic_launcher-web.png">
-
-- [ ] Google Play
-- [x] [F-Droid](https://staging.f-droid.org/en/packages/eu.kanade.tachiyomi/)
-- [x] [GitHub](https://github.com/az4521/TachiyomiAZ)
-- [x] [Official page](https://crafty.moe/tachiAZ.htm)
+- [x] [Official page](https://aniyomi.org/)
 
 ### TachiyomiSY
 
@@ -371,19 +427,30 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 - [x] [GitHub](https://github.com/KotatsuApp/Kotatsu)
 - [x] [Official page](https://kotatsu.app/)
 
-## App Backup
+</details>
+
+---
+
+<details>
+<summary><h2>💾 App Backup</h2></summary>
 
 ### Neo Backup
 
 <img alt="NeoBackupIcon" height="64" src="https://github.com/NeoApplications/Neo-Backup/raw/main/fastlane/metadata/android/en-US/images/icon.png">
-(Root required)
+
+> Full app + data backup — root required
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/com.machiav3lli.backup/)
 - [x] [GitHub](https://github.com/NeoApplications/Neo-Backup)
 - [ ] Official page
 
-## Background Noise
+</details>
+
+---
+
+<details>
+<summary><h2>🎵 Background Noise</h2></summary>
 
 ### Noice
 
@@ -394,7 +461,12 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 - [x] [GitHub](https://github.com/ashutoshgngwr/noice)
 - [x] [Official page](https://trynoice.com/)
 
-## Barcode Scanner
+</details>
+
+---
+
+<details>
+<summary><h2>📷 Barcode Scanner</h2></summary>
 
 ### Binary Eye
 
@@ -432,11 +504,18 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 - [x] [GitHub](https://github.com/tomfong/simple-qr)
 - [ ] Official page
 
-## Browser
+</details>
+
+---
+
+<details>
+<summary><h2>🌐 Browser</h2></summary>
 
 ### Cromite :heart:
 
 <img alt="CromiteIcon" height="64" src="https://www.cromite.org/app_icon.png">
+
+> Chromium-based browser — built-in ad/tracker blocking and fingerprint hardening
 
 - [ ] Google Play
 - [ ] F-Droid
@@ -445,10 +524,12 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 
 ### IronFox
 
-<img alt="IronFox" height="64" src="https://gitlab.com/ironfox-oss/IronFox/-/raw/dev/assets/ironfox.png">
+<img alt="IronFoxIcon" height="64" src="https://gitlab.com/ironfox-oss/IronFox/-/raw/dev/assets/ironfox.png">
+
+> Hardened Firefox fork — privacy-first with extra security patches
 
 - [ ] Google Play
-- [x] [F-Droid](fdroidrepos://fdroid.ironfoxoss.org/fdroid/repo?fingerprint=C5E291B5A571F9C8CD9A9799C2C94E02EC9703948893F2CA756D67B94204F904)
+- [x] [F-Droid](https://ironfoxoss.org/fdroid/)
 - [x] [GitLab](https://gitlab.com/ironfox-oss/IronFox)
 - [x] [Official page](https://ironfoxoss.org/)
 
@@ -465,20 +546,26 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 
 <img alt="IceravenIcon" height="64" src="https://raw.githubusercontent.com/fork-maintainers/iceraven-browser/f7c14b140e267c110977c271887837e6b64721ce/fork-asset-sources/IceRaven%202.svg">
 
+> Firefox fork with support for more extensions than stock Firefox
+
 - [ ] Google Play
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/fork-maintainers/iceraven-browser)
 - [ ] Official page
 
-## Calculator
+</details>
+
+---
+<details>
+<summary><h2>🔢 Calculator</h2></summary>
 
 ### Calculator++ :heart:
 
 <img alt="Calculator++Icon" height="64" src="https://raw.githubusercontent.com/Bubu/android-calculatorpp/master/app/src/main/res/drawable-xxxhdpi/ic_launcher.png">
 
-([Google Play's version](https://reports.exodus-privacy.eu.org/en/reports/44561/) differs from [F-Droid's one](https://reports.exodus-privacy.eu.org/en/reports/org.solovyev.android.calculator/latest/), and it violates the rules.)
+> ([Google Play version](https://reports.exodus-privacy.eu.org/en/reports/44561/) contains trackers — use F-Droid)
 
-- [x] ~~[Google Play](https://play.google.com/store/apps/details?id=org.solovyev.android.calculator)~~
+- [x] ~~[Google Play](https://play.google.com/store/apps/details?id=org.solovyev.android.calculator)~~ *(tracker-free version on F-Droid only)*
 - [x] [F-Droid](https://www.f-droid.org/en/packages/org.solovyev.android.calculator/)
 - [x] [GitHub](https://github.com/Bubu/android-calculatorpp)
 - [ ] Official page
@@ -519,7 +606,12 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 - [x] [GitHub](https://github.com/sosauce/CuteCalc)
 - [ ] Official page
 
-## Calendar
+</details>
+
+---
+
+<details>
+<summary><h2>📅 Calendar</h2></summary>
 
 ### Fossify Calendar
 
@@ -539,11 +631,11 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 - [x] [GitHub](https://github.com/Etar-Group/Etar-Calendar)
 - [ ] Official page
 
-### KashCal
+### KashCal ⭐
 
 <img alt="KashCalIcon" height="64" src="https://raw.githubusercontent.com/KashCal/KashCal/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
 
-> Offline-first calendar with iCloud/CalDAV sync, full-text search, recurring events, contact birthdays, and home screen widget.
+> Offline-first calendar with iCloud/CalDAV sync, full-text search, recurring events, contact birthdays and home screen widget
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/org.onekash.kashcal/)
@@ -551,7 +643,33 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 - [x] [GitHub](https://github.com/KashCal/KashCal)
 - [x] [Official page](https://kashcal.github.io/)
 
-## Camera
+### DAVx5 ⭐
+
+<img alt="DAVx5Icon" height="64" src="https://raw.githubusercontent.com/bitfireAT/davx5-ose/main-ose/graphics/davx5-logo.svg">
+
+> CalDAV / CardDAV / WebDAV sync — essential for self-hosted calendar and contact sync with Nextcloud etc.
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=at.bitfire.davdroid)
+- [x] [F-Droid](https://f-droid.org/packages/at.bitfire.davdroid/)
+- [x] [GitHub](https://github.com/bitfireAT/davx5-ose)
+- [x] [Official page](https://www.davx5.com/)
+
+
+### Tuta Calendar
+
+<img alt="TutaCalendarIcon" height="64" src="https://raw.githubusercontent.com/tutao/tutanota/master/app-android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=de.tutao.tutanota)
+- [x] [F-Droid](https://f-droid.org/app/de.tutao.tutanota)
+- [x] [GitHub](https://github.com/tutao/tutanota)
+- [x] [Official page](https://tuta.com/)
+
+</details>
+
+---
+
+<details>
+<summary><h2>📸 Camera</h2></summary>
 
 ### OpenCamera
 
@@ -571,18 +689,22 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 - [x] [GitHub](https://github.com/GrapheneOS/Camera)
 - [x] [Official page](https://grapheneos.org/)
 
-## ChatGPT
 
-### ChatGPT Android
+### Fossify Camera
 
-<img alt="ChatGPTAndroidIcon" height="64" src="https://raw.githubusercontent.com/skydoves/chatgpt-android/refs/heads/main/app/src/main/res/drawable/openai.jpeg">
+<img alt="FossifyCameraIcon" height="64" src="https://raw.githubusercontent.com/FossifyOrg/Camera/master/fastlane/metadata/android/en-US/images/icon.png">
 
-- [ ] Google Play
-- [ ] F-Droid
-- [x] [GitHub](https://github.com/skydoves/chatgpt-android)
-- [ ] Official page
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.fossify.camera)
+- [x] [F-Droid](https://f-droid.org/app/org.fossify.camera)
+- [x] [GitHub](https://github.com/FossifyOrg/Camera)
+- [x] [Official page](https://www.fossify.org/)
 
-## Chess
+</details>
+
+---
+
+<details>
+<summary><h2>♟️ Chess</h2></summary>
 
 ### Lichess :heart:
 
@@ -593,7 +715,41 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 - [x] [GitHub](https://github.com/lichess-org/lichobile)
 - [x] [Official page](https://lichess.org/mobile)
 
-## Coctails Making
+</details>
+
+---
+
+<details>
+<summary><h2>☁️ Cloud ⭐</h2></summary>
+
+### Nextcloud
+
+<img alt="NextcloudIcon" height="64" src="https://raw.githubusercontent.com/nextcloud/android/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
+
+> Self-hosted cloud — sync files, photos, calendars and contacts with no third-party server
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.nextcloud.client)
+- [x] [F-Droid](https://f-droid.org/packages/com.nextcloud.client/)
+- [x] [GitHub](https://github.com/nextcloud/android)
+- [x] [Official page](https://nextcloud.com/)
+
+### Cryptomator ⭐
+
+<img alt="CryptomatorIcon" height="64" src="https://raw.githubusercontent.com/cryptomator/android/develop/presentation/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
+
+> Client-side zero-knowledge encryption for cloud files — works with Nextcloud, Dropbox and any WebDAV provider
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.cryptomator)
+- [x] [F-Droid](https://f-droid.org/packages/org.cryptomator/)
+- [x] [GitHub](https://github.com/cryptomator/android)
+- [x] [Official page](https://cryptomator.org/)
+
+</details>
+
+---
+
+<details>
+<summary><h2>🍹 Cocktails Making</h2></summary>
 
 ### Drinkable
 
@@ -604,7 +760,12 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 - [x] [GitHub](https://github.com/MOIMOB/drinkable)
 - [ ] Official page
 
-## Contacts
+</details>
+
+---
+
+<details>
+<summary><h2>👤 Contacts</h2></summary>
 
 ### Fossify Contacts :heart:
 
@@ -615,7 +776,12 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 - [x] [GitHub](https://github.com/FossifyOrg/Contacts)
 - [x] [Official page](https://www.fossify.org/)
 
-## Decision-Making
+</details>
+
+---
+
+<details>
+<summary><h2>🎲 Decision-Making</h2></summary>
 
 ### Decisions
 
@@ -626,11 +792,18 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 - [x] [GitHub](https://github.com/markusfisch/Libra)
 - [ ] Official page
 
-## Device Synchronization
+</details>
+
+---
+
+<details>
+<summary><h2>🔗 Device Synchronization</h2></summary>
 
 ### KDE Connect :heart:
 
-<img alt="KDEconnectIcon" height="64" src="https://raw.githubusercontent.com/KDE/kdeconnect-kde/master/icons/app/sc-apps-kdeconnect.svg">
+<img alt="KDEConnectIcon" height="64" src="https://raw.githubusercontent.com/KDE/kdeconnect-kde/master/icons/app/sc-apps-kdeconnect.svg">
+
+> Share clipboard, files, notifications and control media between Android and desktop
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp)
 - [x] [F-Droid](https://f-droid.org/en/packages/org.kde.kdeconnect_tp/)
@@ -641,21 +814,19 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 
 <img alt="LocalSendIcon" height="64" src="https://localsend.org/_nuxt/logo-512.aU8Z13Dx.png">
 
+> Share files and text between nearby devices over LAN — no internet, no account, cross-platform
+
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.localsend.localsend_app)
 - [x] [F-Droid](https://f-droid.org/en/packages/org.localsend.localsend_app/)
 - [x] [GitHub](https://github.com/localsend/localsend)
 - [x] [Official page](https://localsend.org/)
 
-## Dialer
+</details>
 
-### Koler
+---
 
-<img alt="KolerIcon" height="64" src="https://raw.githubusercontent.com/Chooloo/koler/master/koler/src/main/ic_launcher-web.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.chooloo.www.koler)
-- [x] [F-Droid](https://f-droid.org/app/com.chooloo.www.koler)
-- [x] [GitHub](https://github.com/Chooloo/koler)
-- [ ] Official page
+<details>
+<summary><h2>📞 Dialer</h2></summary>
 
 ### Fossify Phone :heart:
 
@@ -666,7 +837,21 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 - [x] [GitHub](https://github.com/FossifyOrg/Phone)
 - [x] [Official page](https://www.fossify.org/)
 
-## Diary
+### Koler
+
+<img alt="KolerIcon" height="64" src="https://raw.githubusercontent.com/Chooloo/koler/master/koler/src/main/ic_launcher-web.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.chooloo.www.koler)
+- [x] [F-Droid](https://f-droid.org/app/com.chooloo.www.koler)
+- [x] [GitHub](https://github.com/Chooloo/koler)
+- [ ] Official page
+
+</details>
+
+---
+
+<details>
+<summary><h2>📔 Diary</h2></summary>
 
 ### Easy Diary
 
@@ -686,24 +871,20 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 - [x] [GitHub](https://github.com/billthefarmer/diary)
 - [x] [Official page](https://billthefarmer.github.io/diary/)
 
-## Download Manager
+</details>
 
-### Download Navi
+---
 
-<img alt="DownloadNaviIcon" height="64" src="https://play-lh.googleusercontent.com/XKSnuIxirq8HktMEpxtcWbAVFl7ThnGg6I_hph0PeYe1JEt8iVCLAf76sDoUeVUu2eFL">
+<details>
+<summary><h2>💬 Discord</h2></summary>
 
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/en/packages/com.tachibana.downloader/)
-- [x] [GitHub](https://github.com/TachibanaGeneralLaboratories/download-navi)
-- [ ] Official page
-
-## Discord
+> ⚠️ Discord itself is proprietary. These are FOSS clients/mods that reduce tracking.
 
 ### Aliucord
 
 <img alt="AliucordIcon" height="64" src="https://raw.githubusercontent.com/Aliucord/Aliucord/main/installer/android/app/src/main/assets/icon2.png">
 
-(Aliucord doesn't make Discord open source, it is still proprietary software but with FOSS patches and modifications [without Discord Tracking](https://github.com/Aliucord/Aliucord/blob/main/Aliucord/src/main/java/com/aliucord/coreplugins/NoTrack.java))
+> FOSS-patched Discord with [tracking removed](https://github.com/Aliucord/Aliucord/blob/main/Aliucord/src/main/java/com/aliucord/coreplugins/NoTrack.java)
 
 - [ ] Google Play
 - [ ] F-Droid
@@ -712,16 +893,21 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 
 ### Revenge
 
-<img alt="Revenge" height="64" src="https://raw.githubusercontent.com/revenge-mod/revenge-bundle/refs/heads/main/assets/logo/logo-dark.svg">
+<img alt="RevengeIcon" height="64" src="https://raw.githubusercontent.com/revenge-mod/revenge-bundle/refs/heads/main/assets/logo/logo-dark.svg">
 
-> A client modification for Discord mobile, a continuation of [Bunny](https://github.com/pyoncord/Bunny).
+> Modern Discord client mod — continuation of Bunny
 
 - [ ] Google Play
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/revenge-mod/revenge-bundle)
 - [ ] Official page
 
-## Document Scanner
+</details>
+
+---
+
+<details>
+<summary><h2>🔍 Document Scanner</h2></summary>
 
 ### OSS Document Scanner
 
@@ -732,7 +918,28 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 - [x] [GitHub](https://github.com/Akylas/OSS-DocumentScanner)
 - [x] [Official page](https://www.akylas.fr/)
 
-## Drawing
+</details>
+
+---
+
+<details>
+<summary><h2>⬇️ Download Manager</h2></summary>
+
+### Download Navi
+
+<img alt="DownloadNaviIcon" height="64" src="https://play-lh.googleusercontent.com/XKSnuIxirq8HktMEpxtcWbAVFl7ThnGg6I_hph0PeYe1JEt8iVCLAf76sDoUeVUu2eFL">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/com.tachibana.downloader/)
+- [x] [GitHub](https://github.com/TachibanaGeneralLaboratories/download-navi)
+- [ ] Official page
+
+</details>
+
+---
+
+<details>
+<summary><h2>🎨 Drawing</h2></summary>
 
 ### Pocket Paint
 
@@ -743,7 +950,12 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 - [x] [GitHub](https://github.com/Catrobat/Paintroid)
 - [ ] Official page
 
-## E-book Reader
+</details>
+
+---
+
+<details>
+<summary><h2>📚 E-book Reader</h2></summary>
 
 ### Librera Reader
 
@@ -767,12 +979,29 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 
 <img alt="MyneIcon" height="64" src="https://raw.githubusercontent.com/Pool-Of-Tears/Myne/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
 
+> Download and read free e-books from Project Gutenberg
+
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.starry.myne)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.starry.myne/)
 - [x] [GitHub](https://github.com/Pool-Of-Tears/Myne)
 - [ ] Official page
 
-## Email
+
+### Openlib
+
+<img alt="OpenlibIcon" height="64" src="https://raw.githubusercontent.com/dstark5/Openlib/main/assets/icon/icon.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/app/com.app.openlib)
+- [x] [GitHub](https://github.com/dstark5/Openlib)
+- [ ] Official page
+
+</details>
+
+---
+
+<details>
+<summary><h2>📧 Email</h2></summary>
 
 ### FairEmail
 
@@ -794,9 +1023,9 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 
 ### Proton Mail
 
-> Encrypted email provider
-
 <img alt="ProtonMailIcon" height="64" src="https://raw.githubusercontent.com/ProtonMail/android-mail/refs/heads/main/.idea/icon.svg">
+
+> Encrypted email — Swiss privacy, zero access to your messages
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=ch.protonmail.android)
 - [ ] F-Droid
@@ -805,27 +1034,39 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 
 ### SimpleLogin
 
-> Aliases management
-
 <img alt="SimpleLoginIcon" height="64" src="https://raw.githubusercontent.com/simple-login/Simple-Login-Android/master/SimpleLogin/app/src/main/ic_launcher-playstore.png">
+
+> Email alias manager — protect your real address from spam and data breaches
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=io.simplelogin.android)
 - [x] [F-Droid](https://f-droid.org/en/packages/io.simplelogin.android.fdroid/)
 - [x] [GitHub](https://github.com/simple-login/Simple-Login-Android)
 - [x] [Official page](https://simplelogin.io/)
 
-## Emulation
+</details>
+
+---
+
+<details>
+<summary><h2>🎮 Emulation</h2></summary>
 
 ### Lemuroid
 
 <img alt="LemuroidIcon" height="64" src="https://raw.githubusercontent.com/Swordfish90/Lemuroid/master/lemuroid-app/src/main/lemuroid_launcher-web.png">
+
+> Retro gaming emulator — NES, SNES, GBA, N64, PS1 and more
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.swordfish.lemuroid)
 - [x] [F-Droid](https://f-droid.org/packages/com.swordfish.lemuroid/)
 - [x] [GitHub](https://github.com/Swordfish90/Lemuroid)
 - [ ] Official page
 
-## F-Droid
+</details>
+
+---
+
+<details>
+<summary><h2>📦 F-Droid</h2></summary>
 
 ### F-Droid
 
@@ -851,7 +1092,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/com.looker.droidify)
-- [x] [GitHub](https://github.com/Iamlooker/Droid-ify)
+- [x] [GitHub](https://github.com/Droid-ify/client)
 - [ ] Official page
 
 ### Neo Store
@@ -863,7 +1104,12 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 - [x] [GitHub](https://github.com/NeoApplications/Neo-Store)
 - [ ] Official page
 
-## File Manager
+</details>
+
+---
+
+<details>
+<summary><h2>📁 File Manager</h2></summary>
 
 ### Material Files :heart:
 
@@ -892,7 +1138,12 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 - [x] [GitHub](https://github.com/FossifyOrg/File-Manager)
 - [x] [Official page](https://www.fossify.org/)
 
-## File Synchronization
+</details>
+
+---
+
+<details>
+<summary><h2>🔄 File Synchronization</h2></summary>
 
 ### Syncthing
 
@@ -916,12 +1167,19 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 
 <img alt="PairDropIcon" height="64" src="https://raw.githubusercontent.com/schlagmichdoch/PairDrop/master/public/images/android-chrome-512x512.png">
 
+> AirDrop for everyone — share files/text over LAN, cross-platform
+
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.fmsys.snapdrop&hl=en)
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/schlagmichdoch/pairdrop)
 - [x] [Official page](https://pairdrop.net/)
 
-## Finance
+</details>
+
+---
+
+<details>
+<summary><h2>💰 Finance</h2></summary>
 
 ### Currencies :heart:
 
@@ -959,18 +1217,30 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 - [x] [GitHub](https://github.com/jerameel/sushi)
 - [ ] Official page
 
-## Firewall
+</details>
+
+---
+
+<details>
+<summary><h2>🔥 Firewall</h2></summary>
 
 ### AFWall+
 
 <img alt="AFWall+Icon" height="64" src="https://raw.githubusercontent.com/ukanth/afwall/beta/app/src/main/ic_launcher-web.png">
+
+> Root-based iptables firewall — control which apps can access the internet
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=dev.ukanth.ufirewall)
 - [x] [F-Droid](https://f-droid.org/en/packages/dev.ukanth.ufirewall/)
 - [x] [GitHub](https://github.com/ukanth/afwall/)
 - [ ] Official page
 
-## Flash Cards
+</details>
+
+---
+
+<details>
+<summary><h2>🃏 Flash Cards</h2></summary>
 
 ### AnkiDroid
 
@@ -999,7 +1269,12 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 - [x] [GitHub](https://github.com/uestueab/app-thesis)
 - [ ] Official page
 
-## Flashlight
+</details>
+
+---
+
+<details>
+<summary><h2>🔦 Flashlight</h2></summary>
 
 ### Flashy
 
@@ -1010,7 +1285,12 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 - [x] [GitHub](https://github.com/Crazy-Marvin/Flashy)
 - [x] [Official page](https://crazymarvin.com/flashy/)
 
-## Forgejo & Gitea
+</details>
+
+---
+
+<details>
+<summary><h2>🦊 Forgejo & Gitea</h2></summary>
 
 ### GitNex :heart:
 
@@ -1021,7 +1301,12 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 - [x] [Codeberg](https://codeberg.org/gitnex/GitNex)
 - [x] [Official page](https://gitnex.com/)
 
-## Gallery
+</details>
+
+---
+
+<details>
+<summary><h2>🖼️ Gallery</h2></summary>
 
 ### Fossify Gallery :heart:
 
@@ -1037,11 +1322,11 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 <img alt="AvesIcon" height="64" src="https://raw.githubusercontent.com/deckerst/aves/develop/aves_logo.svg">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=deckers.thibault.aves)
-- [x] [F-Droid](https://apt.izzysoft.de/fdroid/index/apk/deckers.thibault.aves)
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/deckers.thibault.aves)
 - [x] [GitHub](https://github.com/deckerst/aves)
 - [ ] Official page
 
-### Gallery
+### Gallery (IacobIonut01)
 
 <img alt="GalleryIcon" height="64" src="https://raw.githubusercontent.com/IacobIonut01/Gallery/main/fastlane/metadata/android/en-US/images/icon.png">
 
@@ -1050,7 +1335,11 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 - [x] [GitHub](https://github.com/IacobIonut01/Gallery)
 - [ ] Official page
 
-## Games
+</details>
+
+---
+<details>
+<summary><h2>🎮 Games</h2></summary>
 
 ### Mindustry
 
@@ -1060,15 +1349,6 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 - [x] [F-Droid](https://f-droid.org/packages/io.anuke.mindustry)
 - [x] [GitHub](https://github.com/Anuken/Mindustry)
 - [x] [Official page](https://mindustrygame.github.io/)
-
-### Parlera
-
-<img alt="ParleraIcon" height="64" src="https://gitlab.com/enjoyingfoss/parlera/-/raw/master/flatpak/com.enjoyingfoss.Parlera.svg">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.enjoyingfoss.parlera)
-- [x] [F-Droid](https://f-droid.org/packages/com.enjoyingfoss.parlera/)
-- [x] [GitLab](https://gitlab.com/enjoyingfoss/parlera)
-- [ ] Official page
 
 ### Shattered Pixel Dungeon :heart:
 
@@ -1097,6 +1377,35 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 - [x] [GitHub](https://github.com/SecUSo/privacy-friendly-sudoku)
 - [x] [Official page](https://secuso.aifb.kit.edu/english/Sudoku.php)
 
+### UnCiv
+
+<img alt="UnCivIcon" height="64" src="https://raw.githubusercontent.com/yairm210/Unciv/master/extraImages/Icons/Unciv%20icon%20v5.png">
+
+> Open-source Civ V-like strategy game — turn-based, moddable
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.unciv.app)
+- [x] [F-Droid](https://f-droid.org/en/packages/com.unciv.app/)
+- [x] [GitHub](https://github.com/yairm210/Unciv)
+- [x] [Official page](https://yairm210.itch.io/unciv)
+
+### Minetest
+
+<img alt="MinetestIcon" height="64" src="https://raw.githubusercontent.com/minetest/minetest/master/misc/minetest.svg">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=net.minetest.minetest)
+- [x] [F-Droid](https://f-droid.org/en/packages/net.minetest.minetest/)
+- [x] [GitHub](https://github.com/minetest/minetest)
+- [x] [Official page](https://www.minetest.net/)
+
+### Parlera
+
+<img alt="ParleraIcon" height="64" src="https://gitlab.com/enjoyingfoss/parlera/-/raw/master/flatpak/com.enjoyingfoss.Parlera.svg">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.enjoyingfoss.parlera)
+- [x] [F-Droid](https://f-droid.org/packages/com.enjoyingfoss.parlera/)
+- [x] [GitLab](https://gitlab.com/enjoyingfoss/parlera)
+- [ ] Official page
+
 ### Zoysii
 
 <img alt="ZoysiiIcon" height="64" src="https://gitlab.com/deepdaikon/Zoysii/-/raw/49dddd8eecd7951deb526e1671a37ed1fe0c9cc5/android/app/src/main/ic_launcher-web.png">
@@ -1115,43 +1424,12 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 - [x] [GitLab](https://gitlab.com/deepdaikon/Quinb)
 - [ ] Official page
 
-### UnCiv
+</details>
 
-<img alt="UnCivIcon" height="64" src="https://raw.githubusercontent.com/yairm210/Unciv/master/extraImages/Icons/Unciv%20icon%20v5.png">
+---
 
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.unciv.app)
-- [x] [F-Droid](https://f-droid.org/en/packages/com.unciv.app/)
-- [x] [GitHub](https://github.com/yairm210/Unciv)
-- [x] [Official page](https://yairm210.itch.io/unciv)
-
-### Box Stacker
-
-<img alt="BoxStackerIcon" height="64" src="https://gitlab.com/box-stacker/box-stacker-mobile/-/raw/main/metadata/en-US/images/icon.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=net.artificialworlds.boxstacker)
-- [x] [F-Droid](https://f-droid.org/en/packages/net.artificialworlds.boxstacker/)
-- [x] [GitLab](https://gitlab.com/box-stacker/box-stacker-mobile)
-- [x] [Official page](https://box-stacker.artificialworlds.net/info/)
-
-### Everest
-
-<img alt="EverestIcon" height="64" src="https://raw.githubusercontent.com/mwageringel/everest/main/metadata/en-US/images/icon.png">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/packages/io.github.mwageringel.everest/)
-- [x] [GitHub](https://github.com/mwageringel/everest)
-- [x] [Official page](https://mwageringel.github.io/everest/)
-
-### Minetest
-
-<img alt="MinetestIcon" height="64" src="https://raw.githubusercontent.com/minetest/minetest/master/misc/minetest.svg">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=net.minetest.minetest)
-- [x] [F-Droid](https://f-droid.org/en/packages/net.minetest.minetest/)
-- [x] [GitHub](https://github.com/minetest/minetest)
-- [x] [Official page](https://www.minetest.net/)
-
-## GitHub Client
+<details>
+<summary><h2>🐙 GitHub Client</h2></summary>
 
 ### OctoDroid
 
@@ -1171,11 +1449,18 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 - [x] [GitHub](https://github.com/NamanShergill/diohub)
 - [ ] Official page
 
-## Google Play
+</details>
+
+---
+
+<details>
+<summary><h2>🏪 Google Play</h2></summary>
 
 ### Aurora Store :heart:
 
 <img alt="AuroraStoreIcon" height="64" src="https://gitlab.com/AuroraOSS/AuroraStore/-/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
+
+> FOSS Play Store frontend — browse and install apps without a Google account
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/com.aurora.store/)
@@ -1186,6 +1471,8 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 
 <img alt="ObtainiumIcon" height="64" src="https://github.com/ImranR98/Obtainium/raw/main/assets/graphics/icon_small.png">
 
+> Track and install app updates directly from GitHub, F-Droid, APKPure and more
+
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/dev.imranr.obtainium)
 - [x] [GitHub](https://github.com/ImranR98/Obtainium)
@@ -1193,16 +1480,39 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 
 ### Accrescent
 
-> A novel Android app store focused on security, privacy, and usability
-
 <img alt="AccrescentIcon" height="64" src="https://raw.githubusercontent.com/accrescent/accrescent/refs/heads/master/.icon-round.png">
+
+> Security-focused app store with reproducible builds and signed metadata
 
 - [ ] Google Play
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/accrescent/accrescent)
 - [x] [Official page](https://accrescent.app/)
 
-## Health
+</details>
+
+---
+
+<details>
+<summary><h2>🗞️ Hacker News ⭐</h2></summary>
+
+### Hacki
+
+<img alt="HackiIcon" height="64" src="https://raw.githubusercontent.com/Livinglist/Hacki/master/assets/images/app_icon.png">
+
+> Feature-rich Hacker News client — voting, commenting, stories, account support
+
+- [ ] Google Play
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.jiaqifeng.hacki)
+- [x] [GitHub](https://github.com/Livinglist/Hacki)
+- [ ] Official page
+
+</details>
+
+---
+
+<details>
+<summary><h2>🏥 Health</h2></summary>
 
 ### Did I Take My Meds?
 
@@ -1211,6 +1521,17 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 - [x] [Google Play](https://play.google.com/store/apps/details?id=dev.corruptedark.diditakemymeds)
 - [x] [F-Droid](https://f-droid.org/packages/dev.corruptedark.diditakemymeds)
 - [x] [GitHub](https://github.com/CorruptedArk/did-i-take-my-meds)
+- [ ] Official page
+
+### MedTimer ⭐
+
+<img alt="MedTimerIcon" height="64" src="https://raw.githubusercontent.com/Futsch1/medTimer/main/app/src/main/play/listings/en-US/graphics/icon/1.png">
+
+> Medication reminders with history and statistics — no account needed
+
+- [ ] Google Play
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.futsch1.medtimer)
+- [x] [GitHub](https://github.com/Futsch1/medTimer)
 - [ ] Official page
 
 ### Medic Log
@@ -1231,16 +1552,23 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 - [x] [Codeberg](https://codeberg.org/toz/MediLog)
 - [x] [Official page](https://codeberg.org/toz/MediLog/wiki/?action=_pages)
 
-### MedTimer
+### Waistline ⭐
 
-<img alt="MedTimerIcon" height="64" src="https://raw.githubusercontent.com/Futsch1/medTimer/main/app/src/main/play/listings/en-US/graphics/icon/1.png">
+<img alt="WaistlineIcon" height="64" src="https://raw.githubusercontent.com/davidhealey/waistline/master/images/icon/icon.png">
+
+> Calorie counter and food diary — track meals and nutrients with a large food database
 
 - [ ] Google Play
-- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.futsch1.medtimer)
-- [x] [GitHub](https://github.com/Futsch1/medTimer)
+- [x] [F-Droid](https://f-droid.org/packages/com.waist.line/)
+- [x] [GitHub](https://github.com/davidhealey/waistline)
 - [ ] Official page
 
-## Icon Pack
+</details>
+
+---
+
+<details>
+<summary><h2>🎨 Icon Pack</h2></summary>
 
 ### Arcticons :heart:
 
@@ -1257,7 +1585,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/org.xphnx.ameixa/)
-- [x] [F-Droid (Monochrome)](https://f-droid.org/en/packages/org.xphnx.ameixamonochrome/)
+- [x] [F-Droid Monochrome](https://f-droid.org/en/packages/org.xphnx.ameixamonochrome/)
 - [x] [GitLab](https://gitlab.com/xphnx/ameixa)
 - [x] [Official page](https://xphnx.gitlab.io/ameixa)
 
@@ -1270,22 +1598,47 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 - [x] [GitHub](https://github.com/Delta-Icons/android)
 - [x] [Official page](https://delta-icons.github.io/)
 
-## IDE
+</details>
+
+---
+
+<details>
+<summary><h2>💻 IDE</h2></summary>
 
 ### Cosmic IDE
 
 <img alt="CosmicIDEIcon" height="64" src="https://raw.githubusercontent.com/Cosmic-Ide/Cosmic-IDE/main/fastlane/metadata/android/en-US/images/icon.png">
+
+> Full-featured Java/Kotlin IDE running entirely on Android
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/org.cosmicide)
 - [x] [GitHub](https://github.com/Cosmic-Ide/Cosmic-IDE)
 - [ ] Official page
 
-## Image Processing
+</details>
+
+---
+
+<details>
+<summary><h2>🖼️ Image Processing</h2></summary>
+
+### Image Toolbox :heart:
+
+<img alt="ImageToolboxIcon" height="64" src="https://user-images.githubusercontent.com/52178347/244873361-7561ef91-3c2e-4398-87a0-813a56a9f408.png">
+
+> 35+ image tools — resize, crop, filter, compress, convert formats and more
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/ru.tech.imageresizershrinker/)
+- [x] [GitHub](https://github.com/T8RIN/ImageToolbox)
+- [ ] Official page
 
 ### FFShare
 
 <img alt="FFShareIcon" height="64" src="https://f-droid.org/repo/com.caydey.ffshare/en-US/icon_vvPYfQ6YV2zd9ydhsVXalVmc5MZZLZP_lz24kfaTKEQ=.png">
+
+> Compress and convert images/videos via FFmpeg before sharing
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/com.caydey.ffshare/)
@@ -1296,21 +1649,19 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 
 <img alt="ImagepipeIcon" height="64" src="https://codeberg.org/repo-avatars/230-a47fb71f565ec2388d5e78c561a5262d">
 
+> Strip EXIF metadata and reduce file size before sharing
+
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/de.kaffeemitkoffein.imagepipe)
-- [x] [CodeBerg](https://codeberg.org/Starfish/Imagepipe)
+- [x] [Codeberg](https://codeberg.org/Starfish/Imagepipe)
 - [ ] Official page
 
-### Image Toolbox :heart:
+</details>
 
-<img alt="ImageToolboxIcon" height="64" src="https://user-images.githubusercontent.com/52178347/244873361-7561ef91-3c2e-4398-87a0-813a56a9f408.png">
+---
 
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/packages/ru.tech.imageresizershrinker/)
-- [x] [GitHub](https://github.com/T8RIN/ImageToolbox)
-- [ ] Official page
-
-## Instant Messaging
+<details>
+<summary><h2>💬 Instant Messaging</h2></summary>
 
 ### Signal :heart:
 
@@ -1325,6 +1676,8 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 
 <img alt="MollyIcon" height="64" src="https://molly.im/author/molly/avatar_huf94a2fd78ceb4148e0a28cd6efbae53a_18855_270x270_fill_lanczos_center_3.png">
 
+> Hardened Signal fork — encrypted database, anti-forensic features, FOSS
+
 - [ ] Google Play
 - [x] [F-Droid](https://molly.im/fdroid/)
 - [x] [GitHub](https://github.com/mollyim/mollyim-android)
@@ -1334,6 +1687,8 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 
 <img alt="SessionIcon" height="64" src="https://raw.githubusercontent.com/oxen-io/session-android/master/app/src/main/res/mipmap-hdpi/ic_launcher.png">
 
+> Decentralized E2E-encrypted messenger — no phone number required
+
 - [x] [Google Play](https://getsession.org/android)
 - [x] [F-Droid](https://fdroid.getsession.org/)
 - [x] [GitHub](https://github.com/oxen-io/session-android)
@@ -1341,36 +1696,46 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 
 ### Nekogram X
 
-<img alt="NekogramXIcon" height="64" src="https://raw.githubusercontent.com/NekogramX/NekoX/master/TMessagesProj/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
+<img alt="NekogramXIcon" height="64" src="https://raw.githubusercontent.com/NekoX-Dev/NekoX/master/TMessagesProj/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/nekox.messenger/)
 - [x] [GitHub](https://github.com/NekoX-Dev/NekoX)
 - [ ] Official page
 
-### OwlGram
-
-<img alt="OwlgramIcon" height="64" src="https://raw.githubusercontent.com/OwlGramDev/OwlGram/master/TMessagesProj/src/main/res/mipmap-xxhdpi/ic_launcher.png">
-
-- [ ] Google Play
-- [ ] F-Droid
-- [x] [GitHub](https://github.com/OwlGramDev/OwlGram)
-- [ ] Official page
-
 ### Delta Chat
 
 <img alt="DeltaChatIcon" height="64" src="https://delta.chat/assets/logos/delta-chat.svg">
+
+> Email-based encrypted messaging — no central servers, works with any email provider
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=chat.delta)
 - [x] [F-Droid](https://f-droid.org/app/com.b44t.messenger)
 - [x] [GitHub](https://github.com/deltachat/deltachat-android)
 - [x] [Official page](https://delta.chat/en/)
 
-## Keyboard
+
+### Snikket
+
+<img alt="SnikketIcon" height="64" src="https://raw.githubusercontent.com/snikket-im/snikket-android/master/fastlane/metadata/android/en-US/images/icon.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/app/org.snikket.android)
+- [x] [GitHub](https://github.com/snikket-im/snikket-android)
+- [x] [Official page](https://snikket.org/)
+
+</details>
+
+---
+
+<details>
+<summary><h2>⌨️ Keyboard</h2></summary>
 
 ### HeliBoard :heart:
 
 <img alt="HeliBoardIcon" height="64" src="https://raw.githubusercontent.com/Helium314/HeliBoard/8d546fad5e7d59699bb15418f14a2ca471b4d659/art/launcher_icon/icon_source_-_rubik_font_not_included.svg">
+
+> AOSP keyboard fork — privacy-first, gesture typing, no internet permission
 
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/helium314.keyboard)
@@ -1378,18 +1743,21 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 - [ ] Official page
 
 ### Fcitx5 for Android :heart:
+
 <img alt="Fcitx5ForAndroidIcon" height="64" src="https://raw.githubusercontent.com/fcitx5-android/fcitx5-android/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
 
-> Supports input for Chinese, Japanese, Korean, and more
+> CJK input engine — Chinese, Japanese, Korean and more
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.fcitx.fcitx5.android)
 - [x] [F-Droid](https://f-droid.org/packages/org.fcitx.fcitx5.android/)
-- [x] [Source code](https://github.com/fcitx5-android/fcitx5-android)
+- [x] [GitHub](https://github.com/fcitx5-android/fcitx5-android)
 - [x] [Official page](https://fcitx5-android.github.io/en/)
 
 ### FlorisBoard
 
 <img alt="FlorisBoardIcon" height="64" src="https://raw.githubusercontent.com/florisboard/florisboard/main/app/src/main/res/mipmap-xxxhdpi/ic_app_icon_stable_round.png">
+
+> Modern FOSS keyboard — still in beta but actively developed
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/dev.patrickgold.florisboard)
@@ -1398,22 +1766,27 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 
 ### Thumb-Key :heart:
 
-> A privacy-conscious Android keyboard made for your thumbs
-
 <img alt="ThumbKeyIcon" height="64" src="https://raw.githubusercontent.com/dessalines/thumb-key/main/app/src/main/ic_launcher-playstore.png">
+
+> Thumb-friendly layout designed for one-handed typing
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.dessalines.thumbkey)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.dessalines.thumbkey/)
 - [x] [GitHub](https://github.com/dessalines/thumb-key)
 - [ ] Official page
 
-## Knowledge
+</details>
+
+---
+
+<details>
+<summary><h2>🧠 Knowledge</h2></summary>
 
 ### Atomic
 
-> Periodic Table
-
 <img alt="AtomicIcon" height="64" src="https://raw.githubusercontent.com/JLindemann42/Atomic-Periodic-Table.Android/master/app/src/main/ic_launcher-web.png">
+
+> Periodic Table with element details, properties and reactions
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.jlindemann.science)
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.jlindemann.science)
@@ -1429,32 +1802,48 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 - [x] [GitHub](https://github.com/SimonSchubert/LinuxCommandLibrary)
 - [x] [Official page](https://linuxcommandlibrary.com/)
 
-## Language
+</details>
+
+---
+
+<details>
+<summary><h2>🗣️ Language</h2></summary>
 
 ### Kakugo
 
 <img alt="KakugoIcon" height="64" src="https://raw.githubusercontent.com/blastrock/kakugo/master/app/src/main/ic_launcher-web.png">
+
+> Japanese writing practice — hiragana, katakana and kanji
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.kaqui)
 - [x] [F-Droid](https://f-droid.org/packages/org.kaqui/)
 - [x] [GitHub](https://github.com/blastrock/kakugo)
 - [ ] Official page
 
-## Launcher
+</details>
+
+---
+
+<details>
+<summary><h2>🚀 Launcher</h2></summary>
 
 ### Kvaesitso :heart:
 
 <img alt="KvaesitsoIcon" height="64" src="https://raw.githubusercontent.com/MM2-0/Kvaesitso/main/assets/icons/ic_launcher.png">
 
+> Search-focused launcher — unified search across apps, contacts, calendar and web
+
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/de.mm20.launcher2.release/)
-- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/de.mm20.launcher2.release) (feature completeness)
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/de.mm20.launcher2.release) *(for latest features)*
 - [x] [GitHub](https://github.com/MM2-0/Kvaesitso)
 - [x] [Official page](https://kvaesitso.mm20.de/)
 
 ### Lawnchair Launcher :heart:
 
 <img alt="LawnchairLauncherIcon" height="64" src="https://avatars.githubusercontent.com/u/34144436?s=200&v=4">
+
+> Pixel launcher feel with full customization
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah)
 - [ ] F-Droid
@@ -1465,8 +1854,6 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Ero-
 
 <img alt="NeoLauncherIcon" height="64" src="https://github.com/NeoApplications/Neo-Launcher/raw/A-12/fastlane/metadata/android/en-US/images/icon.png">
 
-Currently being reworked as Neo Launcher.
-
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.saggitt.omega)
 - [x] [GitHub](https://github.com/NeoApplications/Neo-Launcher)
@@ -1475,6 +1862,8 @@ Currently being reworked as Neo Launcher.
 ### KISS Launcher :heart:
 
 <img alt="KISSLauncherIcon" height="64" src="https://raw.githubusercontent.com/Neamar/KISS/master/fastlane/metadata/android/en-US/images/icon.png">
+
+> Minimalist launcher — just type to search apps, contacts and shortcuts instantly
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=fr.neamar.kiss)
 - [x] [F-Droid](https://f-droid.org/packages/fr.neamar.kiss/)
@@ -1490,11 +1879,24 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/iamrasel/lunar-launcher)
 - [ ] Official page
 
-## Lemmy
+
+### Fossify Launcher
+
+<img alt="FossifyLauncherIcon" height="64" src="https://raw.githubusercontent.com/FossifyOrg/Launcher/master/fastlane/metadata/android/en-US/images/icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.fossify.home)
+- [x] [F-Droid](https://f-droid.org/app/org.fossify.home)
+- [x] [GitHub](https://github.com/FossifyOrg/Launcher)
+- [x] [Official page](https://www.fossify.org/)
+
+</details>
+
+---
+
+<details>
+<summary><h2>🐾 Lemmy</h2></summary>
 
 ### Jerboa
-
-> A native android app for Lemmy
 
 <img alt="JerboaIcon" height="64" src="https://raw.githubusercontent.com/dessalines/jerboa/main/app/src/main/res/jerboa.svg">
 
@@ -1512,7 +1914,32 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/thunder-app/thunder)
 - [x] [Official page](https://thunderapp.dev/)
 
-## Loyalty Card
+### Voyager ⭐
+
+<img alt="VoyagerIcon" height="64" src="https://raw.githubusercontent.com/aeharding/voyager/main/public/logo/icon.svg">
+
+> Clean, fast Lemmy client built with Flutter — great Material You design
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=app.vger.voyager)
+- [x] [F-Droid](https://f-droid.org/packages/app.vger.voyager/)
+- [x] [GitHub](https://github.com/aeharding/voyager)
+- [x] [Official page](https://vger.app/)
+
+### Liftoff ⭐
+
+<img alt="LiftoffIcon" height="64" src="https://raw.githubusercontent.com/liftoff-app/liftoff/main/assets/icon.png">
+
+- [ ] Google Play
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.liftoffapp.liftoff)
+- [x] [GitHub](https://github.com/liftoff-app/liftoff)
+- [ ] Official page
+
+</details>
+
+---
+
+<details>
+<summary><h2>🎫 Loyalty Card</h2></summary>
 
 ### Catima :heart:
 
@@ -1523,11 +1950,18 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/CatimaLoyalty/Android)
 - [x] [Official page](https://catima.app/)
 
-## Maps
+</details>
+
+---
+
+<details>
+<summary><h2>🗺️ Maps</h2></summary>
 
 ### Organic Maps :heart:
 
 <img alt="OrganicMapsIcon" height="64" src="https://organicmaps.app/logos/green-on-transparent.svg">
+
+> Offline maps based on OpenStreetMap — fast, no tracking, no ads
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=app.organicmaps)
 - [x] [F-Droid](https://f-droid.org/en/packages/app.organicmaps/)
@@ -1538,12 +1972,19 @@ Currently being reworked as Neo Launcher.
 
 <img alt="OsmAndIcon" height="64" src="https://osmand.net/img/logo.svg">
 
+> Full-featured OpenStreetMap navigation with offline routing
+
 - [x] [Google Play](https://play.google.com/store/apps/details?id=net.osmand)
 - [x] [F-Droid](https://f-droid.org/packages/net.osmand.plus/)
 - [x] [GitHub](https://github.com/osmandapp/OsmAnd)
 - [x] [Official page](https://osmand.net/)
 
-## Mastodon
+</details>
+
+---
+
+<details>
+<summary><h2>🐘 Mastodon</h2></summary>
 
 ### Tusky :heart:
 
@@ -1554,7 +1995,44 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/tuskyapp/Tusky)
 - [x] [Official page](https://tusky.app/)
 
-## Matrix Client
+### Fedilab ⭐
+
+<img alt="FedilabIcon" height="64" src="https://framagit.org/tom79/fedilab/-/raw/develop/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
+
+> Multi-account client for Mastodon, Pleroma, Misskey, PixelFed and more
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=app.fedilab.android)
+- [x] [F-Droid](https://f-droid.org/packages/fr.gouv.etalab.mastodon/)
+- [x] [Codeberg](https://codeberg.org/tom79/Fedilab)
+- [x] [Official page](https://fedilab.app/)
+
+### Moshidon ⭐
+
+<img alt="MoshidonIcon" height="64" src="https://raw.githubusercontent.com/LucasGGamerM/moshidon/master/mastodon/src/main/res/drawable/ic_launcher_round.png">
+
+> Material You Mastodon client — beautiful fork of Megalodon with extra features
+
+- [ ] Google Play
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.joinmastodon.android.moshinda)
+- [x] [GitHub](https://github.com/LucasGGamerM/moshidon)
+- [ ] Official page
+
+
+### Mastodon ⭐
+
+<img alt="MastodonOfficialIcon" height="64" src="https://raw.githubusercontent.com/mastodon/mastodon-android/master/mastodon/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.joinmastodon.android)
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/mastodon/mastodon-android)
+- [x] [Official page](https://joinmastodon.org/)
+
+</details>
+
+---
+
+<details>
+<summary><h2>🔷 Matrix Client</h2></summary>
 
 ### Element
 
@@ -1565,16 +2043,21 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/vector-im/element-android)
 - [x] [Official page](https://element.io/)
 
-### Fluffy Chat
+### FluffyChat
 
 <img alt="FluffyChatIcon" height="64" src="https://gitlab.com/uploads/-/system/project/avatar/16112282/logo.png?width=64">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=chat.fluffy.fluffychat)
 - [x] [F-Droid](https://f-droid.org/de/packages/chat.fluffy.fluffychat/)
-- [x] [GitHub](https://gitlab.com/famedly/fluffychat)
+- [x] [GitLab](https://gitlab.com/famedly/fluffychat)
 - [x] [Official page](https://fluffychat.im/)
 
-## Meditation
+</details>
+
+---
+
+<details>
+<summary><h2>🧘 Meditation</h2></summary>
 
 ### Medito :heart:
 
@@ -1587,7 +2070,7 @@ Currently being reworked as Neo Launcher.
 
 ### Buddha Quotes
 
-<img alt="BuddhaQuotestIcon" height="64" src="https://github.com/BanDev/BuddhaQuotes/raw/main/assets/buddha.svg">
+<img alt="BuddhaQuotesIcon" height="64" src="https://github.com/BanDev/BuddhaQuotes/raw/main/assets/buddha.svg">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/org.bandev.buddhaquotes)
@@ -1596,25 +2079,37 @@ Currently being reworked as Neo Launcher.
 
 ### Meditation Assistant
 
-<img alt="MeditationAssistantIcon" height="64" src="https://code.rocketnine.space/tslocum/meditationassistant/raw/branch/master/metadata/en-US/images/icon.png">
+<img alt="MeditationAssistantIcon" height="64" src="https://codeberg.org/tslocum/meditationassistant/raw/branch/master/metadata/en-US/images/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=sh.ftp.rocketninelabs.meditationassistant)
 - [x] [F-Droid](https://f-droid.org/packages/sh.ftp.rocketninelabs.meditationassistant.opensource/)
-- [x] [GitTea](https://code.rocketnine.space/tslocum/meditationassistant)
+- [x] [Codeberg](https://codeberg.org/tslocum/meditationassistant)
 - [ ] Official page
 
-## Music Downloader
+</details>
+
+---
+
+<details>
+<summary><h2>⬇️ Music Downloader</h2></summary>
 
 ### SpotiFlyer
 
 <img alt="SpotiFlyerIcon" height="64" src="https://raw.githubusercontent.com/Shabinder/SpotiFlyer/main/fastlane/metadata/android/en-US/images/icon.png">
+
+> Download music from Spotify, YouTube, Gaana and more
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/com.shabinder.spotiflyer)
 - [x] [GitHub](https://github.com/Shabinder/SpotiFlyer)
 - [x] [Official page](https://shabinder.github.io/SpotiFlyer/)
 
-## Music Player
+</details>
+
+---
+
+<details>
+<summary><h2>🎵 Music Player</h2></summary>
 
 ### Metro :heart:
 
@@ -1643,6 +2138,26 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/enricocid/Music-Player-GO)
 - [ ] Official page
 
+### Fossify Music Player
+
+<img alt="FossifyMusicPlayerIcon" height="64" src="https://raw.githubusercontent.com/FossifyOrg/Music-Player/main/graphics/icon.webp">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/org.fossify.musicplayer/)
+- [x] [GitHub](https://github.com/FossifyOrg/Music-Player)
+- [x] [Official page](https://www.fossify.org/)
+
+### Finamp ⭐
+
+<img alt="FinampIcon" height="64" src="https://raw.githubusercontent.com/jmshrv/finamp/master/android/app/src/main/ic_launcher-playstore.png">
+
+> Jellyfin music client — stream or download your self-hosted music library with offline support
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.unicornsonlsd.finamp)
+- [x] [F-Droid](https://f-droid.org/packages/com.unicornsonlsd.finamp/)
+- [x] [GitHub](https://github.com/jmshrv/finamp)
+- [ ] Official page
+
 ### Vinyl
 
 <img alt="VinylIcon" height="64" src="https://raw.githubusercontent.com/AdrienPoupa/VinylMusicPlayer/master/app/src/main/res/drawable-xxxhdpi/icon_web.png">
@@ -1652,24 +2167,6 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/AdrienPoupa/VinylMusicPlayer)
 - [ ] Official page
 
-### Howl
-
-<img alt="HowlIcon" height="64" src="https://raw.githubusercontent.com/Iamlooker/Howl/stable/app/src/main/ic_launcher-playstore.png">
-
-- [ ] Google Play
-- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.looker.howlmusic)
-- [x] [GitHub](https://github.com/Iamlooker/Howl)
-- [ ] Official page
-
-### Noad Player
-
-<img alt="NoadPlayerIcon" height="64" src="https://raw.githubusercontent.com/gauravjot/android-noad-music-player/master/app/src/main/ic_launcher-web.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.droidheat.musicplayer)
-- [x] [IzzyOnDroid](https://android.izzysoft.de/repo/apk/com.droidheat.musicplayer)
-- [x] [GitHub](https://github.com/gauravjot/android-noad-music-player)
-- [ ] Official page
-
 ### Mucke
 
 <img alt="MuckeIcon" height="64" src="https://raw.githubusercontent.com/moritz-weber/mucke/master/src/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png">
@@ -1677,16 +2174,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/rocks.mucke.github)
 - [x] [GitHub](https://github.com/moritz-weber/mucke)
-- [x] [Official page](https://martinmimigames.github.io/projects/tiny-music-player/index.html)
-
-### Fossify Music Player
-
-<img alt="FossifyMusicPlayerIcon" height="64" src="https://raw.githubusercontent.com/FossifyOrg/Music-Player/main/graphics/icon.webp">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/packages/org.fossify.musicplayer/)
-- [x] [GitHub](https://github.com/FossifyOrg/Music-Player)
-- [x] [Official page](https://www.fossify.org/)
+- [ ] Official page
 
 ### Tiny Music Player
 
@@ -1697,7 +2185,12 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/martinmimigames/tiny-music-player)
 - [x] [Official page](https://martinmimigames.github.io/projects/tiny-music-player/index.html)
 
-## Music Scrobbler
+</details>
+
+---
+
+<details>
+<summary><h2>📻 Music Scrobbler</h2></summary>
 
 ### Pano Scrobbler :heart:
 
@@ -1717,7 +2210,30 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/simple-last-fm-scrobbler/sls)
 - [x] [Official page](https://simple-last-fm-scrobbler.github.io/)
 
-## Notes
+</details>
+
+---
+
+<details>
+<summary><h2>⚡ Nostr ⭐</h2></summary>
+
+### Amethyst
+
+<img alt="AmethystIcon" height="64" src="https://raw.githubusercontent.com/vitorpamplona/amethyst/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
+
+> Full-featured Nostr client — decentralized censorship-resistant social media
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst)
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.vitorpamplona.amethyst)
+- [x] [GitHub](https://github.com/vitorpamplona/amethyst)
+- [ ] Official page
+
+</details>
+
+---
+
+<details>
+<summary><h2>📝 Notes</h2></summary>
 
 ### Notally
 
@@ -1728,43 +2244,76 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/OmGodse/Notally)
 - [ ] Official page
 
+### NotallyX ⭐
+
+<img alt="NotallyXIcon" height="64" src="https://raw.githubusercontent.com/PhilKes/NotallyX/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
+
+> Extended Notally fork — adds images, audio attachments, more text formatting, widgets
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/com.philkes.notallyx/)
+- [x] [GitHub](https://github.com/PhilKes/NotallyX)
+- [ ] Official page
+
 ### Joplin
 
 <img alt="JoplinIcon" height="64" src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/LinuxIcons/256x256.png">
+
+> Feature-rich notes and to-do app with end-to-end sync support
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=net.cozic.joplin)
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/net.cozic.joplin)
 - [x] [GitHub](https://github.com/laurent22/joplin/)
 - [x] [Official page](https://joplinapp.org/)
 
-### Safe Notes
-
-<img alt="SafeNotesIcon" height="64" src="https://f-droid.org/repo/com.trisven.safenotes/en-US/icon_0hHDPDBeGzxMT5RtWKoz4APlRMZFM-dZrCH46HGqCLQ=.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.trisven.safenotes)
-- [x] [F-Droid](https://f-droid.org/packages/com.trisven.safenotes/)
-- [x] [GitHub](https://github.com/keshav-space/safenotes/)
-- [x] [Official page](https://safenotes.keshav.space/)
-
 ### Markor
 
-<img alt="OsmAndIcon" height="64" src="https://github.com/gsantner/markor/raw/master/app/src/main/ic_launcher-web.png">
+<img alt="MarkorIcon" height="64" src="https://github.com/gsantner/markor/raw/master/app/src/main/ic_launcher-web.png">
+
+> Markdown/text editor — also functions as a to-do list manager
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=net.gsantner.markor)
 - [x] [F-Droid](https://f-droid.org/repository/browse/?fdid=net.gsantner.markor)
 - [x] [GitHub](https://github.com/gsantner/markor)
 - [x] [Official page](https://gsantner.net/page/projects.html#markor)
 
+### Safe Notes
+
+<img alt="SafeNotesIcon" height="64" src="https://f-droid.org/repo/com.trisven.safenotes/en-US/icon_0hHDPDBeGzxMT5RtWKoz4APlRMZFM-dZrCH46HGqCLQ=.png">
+
+> Encrypted local notes — AES-256 encryption, no sync, no cloud
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.trisven.safenotes)
+- [x] [F-Droid](https://f-droid.org/packages/com.trisven.safenotes/)
+- [x] [GitHub](https://github.com/keshav-space/safenotes/)
+- [x] [Official page](https://safenotes.keshav.space/)
+
+### Standard Notes ⭐
+
+<img alt="StandardNotesIcon" height="64" src="https://raw.githubusercontent.com/standardnotes/app/main/packages/mobile/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
+
+> End-to-end encrypted notes that sync across all your devices
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.standardnotes)
+- [x] [F-Droid](https://f-droid.org/packages/com.standardnotes/)
+- [x] [GitHub](https://github.com/standardnotes/app)
+- [x] [Official page](https://standardnotes.com/)
+
 ### Fossify Notes
 
-<img alt="FossifyNotes" height="64" src="https://raw.githubusercontent.com/FossifyOrg/Notes/master/graphics/icon.webp">
+<img alt="FossifyNotesIcon" height="64" src="https://raw.githubusercontent.com/FossifyOrg/Notes/master/graphics/icon.webp">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/org.fossify.notes/)
 - [x] [GitHub](https://github.com/FossifyOrg/Notes)
 - [x] [Official page](https://www.fossify.org/)
 
-## OCR
+</details>
+
+---
+
+<details>
+<summary><h2>🔤 OCR</h2></summary>
 
 ### OCR (Tesseract)
 
@@ -1775,22 +2324,36 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/mtotschnig/OCR)
 - [ ] Official page
 
-## Office Suite
+</details>
+
+---
+
+<details>
+<summary><h2>📄 Office Suite</h2></summary>
 
 ### Collabora Office
 
 <img alt="CollaboraOfficeIcon" height="64" src="https://www.collaboraoffice.com/wp-content/uploads/2022/03/cropped-collabora-productivity-nav-icon.png">
+
+> LibreOffice-based office suite — edit DOCX, XLSX, PPTX fully offline
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.collabora.libreoffice)
 - [x] [F-Droid](https://www.collaboraoffice.com/tag/f-droid/)
 - [x] [GitHub](https://github.com/CollaboraOnline/online)
 - [x] [Official page](https://www.collaboraoffice.com/solutions/collabora-office-android-ios/)
 
-## Package Manager
+</details>
+
+---
+
+<details>
+<summary><h2>📦 Package Manager</h2></summary>
 
 ### App Manager :heart:
 
 <img alt="AppManagerIcon" height="64" src="https://raw.githubusercontent.com/MuntashirAkon/AppManager/master/docs/raw/images/icon.png">
+
+> Inspect, control and backup any installed app — root enhances capabilities
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/io.github.muntashirakon.AppManager/)
@@ -1806,7 +2369,12 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/SmartPack/PackageManager)
 - [x] [Official page](https://smartpack.github.io/)
 
-## Password Manager
+</details>
+
+---
+
+<details>
+<summary><h2>🔑 Password Manager</h2></summary>
 
 ### Bitwarden :heart:
 
@@ -1817,15 +2385,6 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/bitwarden/mobile)
 - [x] [Official page](https://bitwarden.com/)
 
-### Keepass2Android
-
-<img alt="Keepass2AndroidIcon" height="64" src="https://raw.githubusercontent.com/PhilippC/keepass2android/master/graphics/launcher_icon/Logo-green.svg">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=keepass2android.keepass2android)
-- [x] [IzzyOnDroid (Offline-only)](https://android.izzysoft.de/repo/apk/keepass2android.keepass2android_nonet)
-- [x] [GitHub](https://github.com/PhilippC/keepass2android)
-- [ ] Official page
-
 ### KeePassDX :heart:
 
 <img alt="KeePassDXIcon" height="64" src="https://raw.githubusercontent.com/Kunzisoft/KeePassDX/master/art/icon.png">
@@ -1835,7 +2394,32 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/Kunzisoft/KeePassDX)
 - [x] [Official page](https://www.keepassdx.com/)
 
-## PDF Viewer
+### Keepass2Android
+
+<img alt="Keepass2AndroidIcon" height="64" src="https://raw.githubusercontent.com/PhilippC/keepass2android/master/graphics/launcher_icon/Logo-green.svg">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=keepass2android.keepass2android)
+- [x] [IzzyOnDroid (Offline-only)](https://android.izzysoft.de/repo/apk/keepass2android.keepass2android_nonet)
+- [x] [GitHub](https://github.com/PhilippC/keepass2android)
+- [ ] Official page
+
+### Proton Pass ⭐
+
+<img alt="ProtonPassIcon" height="64" src="https://raw.githubusercontent.com/ProtonMail/android-pass/main/pass/app/src/main/ic_launcher-playstore.png">
+
+> Open-source password manager with E2E encryption by the team behind ProtonMail
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=proton.android.pass)
+- [x] [F-Droid](https://f-droid.org/packages/proton.android.pass.fdroid/)
+- [x] [GitHub](https://github.com/ProtonMail/android-pass)
+- [x] [Official page](https://proton.me/pass)
+
+</details>
+
+---
+
+<details>
+<summary><h2>📄 PDF Viewer</h2></summary>
 
 ### MJ PDF
 
@@ -1855,20 +2439,64 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/GrapheneOS/PdfViewer)
 - [x] [Official page](https://grapheneos.org/)
 
-## Plants
+</details>
+
+---
+
+<details>
+<summary><h2>🌸 Pixelfed ⭐</h2></summary>
+
+### PixelDroid
+
+<img alt="PixelDroidIcon" height="64" src="https://gitlab.com/pixeldroid/app/-/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
+
+> FOSS client for Pixelfed — the decentralized Instagram alternative
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/org.pixeldroid.app/)
+- [x] [GitLab](https://gitlab.com/pixeldroid/app)
+- [x] [Official page](https://pixeldroid.org/)
+
+</details>
+
+---
+
+<details>
+<summary><h2>🌿 Plants</h2></summary>
 
 ### Florae
 
-> free application that will allow you to keep track of the care of your plants while respecting your freedom and privacy.
+<img alt="FloraeIcon" height="64" src="https://raw.githubusercontent.com/aeri/Florae/main/metadata/en-US/images/icon.png">
 
-<img alt="FLoraeIcon" height="64" src="https://raw.githubusercontent.com/aeri/Florae/main/metadata/en-US/images/icon.png">
+> Track plant care schedules while respecting your privacy
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=cat.naval.florae)
 - [x] [F-Droid](https://f-droid.org/en/packages/cat.naval.florae/)
 - [x] [GitHub](https://github.com/aeri/Florae)
 - [ ] Official page
 
-## Public Transport Assistant
+</details>
+
+---
+
+<details>
+<summary><h2>🎙️ Podcast</h2></summary>
+
+### AntennaPod
+
+<img alt="AntennaPodIcon" height="64" src="https://f-droid.org/repo/de.danoeh.antennapod/en-US/icon_OH4TXWSQZ716A97yM9y87Gy65l3w19qzHcH-RfkE7xw=.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=de.danoeh.antennapod)
+- [x] [F-Droid](https://f-droid.org/en/packages/de.danoeh.antennapod/)
+- [x] [GitHub](https://github.com/AntennaPod/AntennaPod)
+- [x] [Official page](https://antennapod.org/)
+
+</details>
+
+---
+
+<details>
+<summary><h2>🚌 Public Transport Assistant</h2></summary>
 
 ### Transportr :heart:
 
@@ -1885,21 +2513,44 @@ Currently being reworked as Neo Launcher.
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=de.schildbach.oeffi)
 - [x] [F-Droid](https://www.f-droid.org/en/packages/de.schildbach.oeffi/)
-- [x] [Gitlab](https://gitlab.com/oeffi/oeffi)
+- [x] [GitLab](https://gitlab.com/oeffi/oeffi)
 - [x] [Official page](https://oeffi.schildbach.de/)
 
-## Podcast
+</details>
 
-### AntennaPod
+---
 
-<img alt="AntennaPodIcon" height="64" src="https://f-droid.org/repo/de.danoeh.antennapod/en-US/icon_OH4TXWSQZ716A97yM9y87Gy65l3w19qzHcH-RfkE7xw=.png">
+<details>
+<summary><h2>📻 Radio ⭐</h2></summary>
 
-- [x] [Google Play](https://play.google.com/store/apps/details?id=de.danoeh.antennapod)
-- [x] [F-Droid](https://f-droid.org/en/packages/de.danoeh.antennapod/)
-- [x] [GitHub](https://github.com/AntennaPod/AntennaPod)
-- [x] [Official page](https://antennapod.org/)
+### Transistor
 
-## Reddit
+<img alt="TransistorIcon" height="64" src="https://codeberg.org/y20k/transistor/raw/branch/master/metadata/en-US/images/icon.png">
+
+> Minimal internet radio — add stations by URL or search, pure and simple
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/org.y20k.transistor/)
+- [x] [Codeberg](https://codeberg.org/y20k/transistor)
+- [ ] Official page
+
+### RadioDroid
+
+<img alt="RadioDroidIcon" height="64" src="https://raw.githubusercontent.com/segler-alex/RadioDroid/master/app/src/main/ic_launcher-web.png">
+
+> Stream from the community-maintained radio-browser.info directory
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=net.programmierecke.radiodroid2)
+- [x] [F-Droid](https://f-droid.org/packages/net.programmierecke.radiodroid2/)
+- [x] [GitHub](https://github.com/segler-alex/RadioDroid)
+- [ ] Official page
+
+</details>
+
+---
+
+<details>
+<summary><h2>👽 Reddit</h2></summary>
 
 ### Infinity :heart:
 
@@ -1910,16 +2561,21 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/Docile-Alligator/Infinity-For-Reddit)
 - [ ] Official page
 
-### Stealth️
+### Stealth
 
-<img alt="Stealth️Icon" height="64" src="https://gitlab.com/cosmosapps/stealth/-/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
+<img alt="StealthIcon" height="64" src="https://gitlab.com/cosmosapps/stealth/-/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/com.cosmos.unreddit/)
 - [x] [GitLab](https://gitlab.com/cosmosapps/stealth)
 - [ ] Official page
 
-## RNG
+</details>
+
+---
+
+<details>
+<summary><h2>🎲 RNG</h2></summary>
 
 ### Randomix
 
@@ -1930,7 +2586,12 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/m-i-n-a-r/randomix)
 - [ ] Official page
 
-## RSS Reader
+</details>
+
+---
+
+<details>
+<summary><h2>📰 RSS Reader</h2></summary>
 
 ### Feeder
 
@@ -1946,7 +2607,7 @@ Currently being reworked as Neo Launcher.
 <img alt="ReadYouIcon" height="64" src="https://raw.githubusercontent.com/Ashinch/ReadYou/main/fastlane/metadata/android/en-US/images/icon.png">
 
 - [ ] Google Play
-- [x] [F-Droid](https://android.izzysoft.de/repo/apk/me.ash.reader)
+- [x] [IzzyOnDroid](https://android.izzysoft.de/repo/apk/me.ash.reader)
 - [x] [GitHub](https://github.com/Ashinch/ReadYou)
 - [ ] Official page
 
@@ -1961,8 +2622,6 @@ Currently being reworked as Neo Launcher.
 
 ### Capy Reader
 
-> A smallish RSS reader
-
 <img alt="CapyReaderIcon" height="64" src="https://raw.githubusercontent.com/jocmp/capyreader/main/site/capy.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.capyreader.app)
@@ -1970,7 +2629,79 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/jocmp/capyreader)
 - [ ] Official page
 
-## SMS Messenger
+
+### Twine ⭐
+
+<img alt="TwineIcon" height="64" src="https://raw.githubusercontent.com/msasikanth/twine/main/assets/ic_launcher.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=dev.sasikanth.rss.reader)
+- [x] [F-Droid](https://f-droid.org/app/dev.sasikanth.rss.reader)
+- [x] [GitHub](https://github.com/msasikanth/twine)
+- [ ] Official page
+
+</details>
+
+---
+
+<details>
+<summary><h2>🏠 Self Hosted</h2></summary>
+
+### Jellyfin
+
+<img alt="JellyfinIcon" height="64" src="https://f-droid.org/repo/org.jellyfin.mobile/en-US/icon_Y46m-eV538ASL9vG0piH5BI4dC1PHilt0tKyKCVp_F0=.png">
+
+> Official Jellyfin Android client — stream your self-hosted media library
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.jellyfin.mobile)
+- [x] [F-Droid](https://f-droid.org/packages/org.jellyfin.mobile/)
+- [x] [GitHub](https://github.com/jellyfin/jellyfin-android)
+- [x] [Official page](https://jellyfin.org/)
+
+### Findroid
+
+<img alt="FindroidIcon" height="64" src="https://play-lh.googleusercontent.com/y0r6t9yI5rYK4WRiRoC3E2s408HFDorzCj288979Z82UPDzePBLdGTzipgg11GFy66vv=w240-h480-rw">
+
+> Alternative Jellyfin client with a clean Material You interface
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=dev.jdtech.jellyfin)
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/dev.jdtech.jellyfin)
+- [x] [GitHub](https://github.com/jarnedemeulemeester/findroid)
+- [ ] Official page
+
+
+### Audiobookshelf ⭐
+
+<img alt="AudiobookshelfIcon" height="64" src="https://raw.githubusercontent.com/advplyr/audiobookshelf/master/client/src/assets/logo.svg">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.audiobookshelf.app)
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/advplyr/audiobookshelf-app)
+- [x] [Official page](https://www.audiobookshelf.org/)
+
+</details>
+
+---
+
+<details>
+<summary><h2>🎵 Shazam</h2></summary>
+
+### Audile
+
+<img alt="AudileIcon" height="64" src="https://raw.githubusercontent.com/aleksey-saenko/MusicRecognizer/master/fastlane/metadata/android/en-US/images/icon.png">
+
+> Music recognition using the Audd API — identify any song playing around you
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/com.mrsep.musicrecognizer/)
+- [x] [GitHub](https://github.com/aleksey-saenko/MusicRecognizer)
+- [ ] Official page
+
+</details>
+
+---
+
+<details>
+<summary><h2>💬 SMS Messenger</h2></summary>
 
 ### Fossify Messages :heart:
 
@@ -1983,58 +2714,39 @@ Currently being reworked as Neo Launcher.
 
 ### QUIK SMS
 
-> The most beautiful SMS messenger for Android - Revived
-
 <img alt="QUIKSMSIcon" height="64" src="https://raw.githubusercontent.com/octoshrimpy/quik/master/presentation/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
+
+> The most beautiful SMS messenger for Android — revived and maintained
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/dev.octoshrimpy.quik/)
 - [x] [GitHub](https://github.com/octoshrimpy/quik)
 - [ ] Official page
 
-## Self Hosted
+</details>
 
-### Jellyfin
+---
 
-<img alt="JellyfinIcon" height="64" src="https://f-droid.org/repo/org.jellyfin.mobile/en-US/icon_Y46m-eV538ASL9vG0piH5BI4dC1PHilt0tKyKCVp_F0=.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=org.jellyfin.mobile)
-- [x] [F-Droid](https://f-droid.org/packages/org.jellyfin.mobile/)
-- [x] [GitHub](https://github.com/jellyfin/jellyfin-android)
-- [x] [Official page](https://jellyfin.org/)
-
-### Findroid
-
-<img alt="FindroidIcon" height="64" src="https://play-lh.googleusercontent.com/y0r6t9yI5rYK4WRiRoC3E2s408HFDorzCj288979Z82UPDzePBLdGTzipgg11GFy66vv=w240-h480-rw">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=dev.jdtech.jellyfin)
-- [x] [F-Droid](https://apt.izzysoft.de/fdroid/index/apk/dev.jdtech.jellyfin)
-- [x] [GitHub](https://github.com/jarnedemeulemeester/findroid)
-- [ ] Official page
-
-## Shazam
-
-### Audile
-
-<img alt="AudileIcon" height="64" src="https://raw.githubusercontent.com/aleksey-saenko/MusicRecognizer/master/fastlane/metadata/android/en-US/images/icon.png">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/en/packages/com.mrsep.musicrecognizer/)
-- [x] [GitHub](https://github.com/aleksey-saenko/MusicRecognizer)
-- [ ] Official page
-
-## Spotify
+<details>
+<summary><h2>🎵 Spotify Client</h2></summary>
 
 ### Blade Player :heart:
 
 <img alt="BladePlayerIcon" height="64" src="https://raw.githubusercontent.com/vhaudiquet/BladePlayer/master/app/src/main/ic_launcher-playstore.png">
+
+> Stream from Spotify, YouTube Music and local files in one app
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=v.blade)
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/v.blade)
 - [x] [GitHub](https://github.com/vhaudiquet/BladePlayer)
 - [ ] Official page
 
-## SSH client
+</details>
+
+---
+
+<details>
+<summary><h2>🔐 SSH Client</h2></summary>
 
 ### ConnectBot :heart:
 
@@ -2043,9 +2755,14 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.connectbot)
 - [x] [F-Droid](https://f-droid.org/en/packages/org.connectbot/)
 - [x] [GitHub](https://github.com/connectbot/connectbot)
-- [x] [Official page](http://connectbot.org/)
+- [x] [Official page](https://connectbot.org/)
 
-## Stargazing
+</details>
+
+---
+
+<details>
+<summary><h2>🌟 Stargazing</h2></summary>
 
 ### Sky Map
 
@@ -2056,7 +2773,12 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/sky-map-team/stardroid)
 - [ ] Official page
 
-## Step Counting
+</details>
+
+---
+
+<details>
+<summary><h2>👟 Step Counting</h2></summary>
 
 ### Paseo :heart:
 
@@ -2067,11 +2789,18 @@ Currently being reworked as Neo Launcher.
 - [x] [GitLab](https://gitlab.com/pardomi/paseo/)
 - [ ] Official page
 
-## Streaming
+</details>
+
+---
+
+<details>
+<summary><h2>📺 Streaming</h2></summary>
 
 ### CloudStream
 
 <img alt="CloudStreamIcon" height="64" src="https://raw.githubusercontent.com/recloudstream/cloudstream/master/app/src/main/ic_launcher-playstore.png">
+
+> Stream movies, series and anime from many sources
 
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.lagradost.cloudstream3/)
@@ -2087,25 +2816,32 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/DATL4G/BurningSeries-Android/)
 - [ ] Official page
 
-## Survival
+</details>
 
-### Survival Manual
+---
 
-<img alt="Survival ManualIcon" height="64" src="https://f-droid.org/repo/icons-640/org.ligi.survivalmanual.428.png">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/packages/org.ligi.survivalmanual/)
-- [x] [GitHub](https://github.com/ligi/SurvivalManual)
-- [x] [Official page](https://survivalmanual.github.io/)
+<details>
+<summary><h2>🏕️ Survival</h2></summary>
 
 ### Trail Sense
 
 <img alt="TrailSenseIcon" height="64" src="https://raw.githubusercontent.com/kylecorry31/Trail-Sense/main/app/src/main/ic_launcher-web.png">
 
+> Over 50 tools for hiking — navigation, weather, survival, astronomy and more
+
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.kylecorry.trail_sense)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.kylecorry.trail_sense/)
 - [x] [GitHub](https://github.com/kylecorry31/Trail-Sense)
 - [x] [Official page](https://kylecorry.com/Trail-Sense/)
+
+### Survival Manual
+
+<img alt="SurvivalManualIcon" height="64" src="https://f-droid.org/repo/icons-640/org.ligi.survivalmanual.428.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/org.ligi.survivalmanual/)
+- [x] [GitHub](https://github.com/ligi/SurvivalManual)
+- [x] [Official page](https://survivalmanual.github.io/)
 
 ### Compass
 
@@ -2116,7 +2852,12 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/Kr0oked/Compass)
 - [ ] Official page
 
-## System Cleaner
+</details>
+
+---
+
+<details>
+<summary><h2>🧹 System Cleaner</h2></summary>
 
 ### SD Maid 2/SE
 
@@ -2127,27 +2868,41 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/d4rken-org/sdmaid-se)
 - [ ] Official page
 
-## Terminal Emulator
+</details>
+
+---
+
+<details>
+<summary><h2>🖥️ Terminal Emulator</h2></summary>
 
 ### Termux :heart:
 
 <img alt="TermuxIcon" height="64" src="https://raw.githubusercontent.com/termux/termux-app/master/art/ic_launcher2.png">
 
+> Powerful Linux environment — package manager, SSH, Python, Git and more on Android
+
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.termux)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.termux/)
 - [x] [GitHub](https://github.com/termux/termux-app)
-- [x] [Official page](https://termux.org/)
+- [x] [Official page](https://termux.dev/)
 
-## Text Editor
+</details>
+
+---
+
+<details>
+<summary><h2>✍️ Text Editor</h2></summary>
 
 ### Acode
 
 <img alt="AcodeIcon" height="64" src="https://github.com/deadlyjack/Acode/raw/main/res/logo_1.png">
 
+> Powerful code editor — syntax highlighting for 100+ languages, plugins, Git
+
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree)
 - [x] [F-Droid](https://f-droid.org/packages/com.foxdebug.acode/)
 - [x] [GitHub](https://github.com/deadlyjack/acode)
-- [x] [Official page](https://acode.foxdebug.com/)
+- [x] [Official page](https://acode.app/)
 
 ### Xed Editor
 
@@ -2158,13 +2913,18 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/RohitKushvaha01/Xed-Editor)
 - [ ] Official page
 
-## Timers
+</details>
+
+---
+
+<details>
+<summary><h2>⏱️ Timers</h2></summary>
 
 ### Goodtime :heart:
 
-> Pomodoro Timer
-
 <img alt="GoodtimeIcon" height="64" src="https://raw.githubusercontent.com/adrcotfas/Goodtime/master/app/src/main/ic_launcher-web.png">
+
+> Pomodoro Timer — stay focused, track productivity
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.apps.adrcotfas.goodtime)
 - [x] [F-Droid](https://f-droid.org/packages/com.apps.adrcotfas.goodtime)
@@ -2173,9 +2933,9 @@ Currently being reworked as Neo Launcher.
 
 ### Cofi
 
-> Coffee Timer
-
 <img alt="CofiIcon" height="64" src="https://raw.githubusercontent.com/rozPierog/Cofi/main/app/src/main/ic_launcher-playstore.png">
+
+> Coffee Timer — step-by-step pour-over guides
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.omelan.cofi)
 - [x] [F-Droid](https://www.f-droid.org/en/packages/com.omelan.cofi/)
@@ -2193,20 +2953,25 @@ Currently being reworked as Neo Launcher.
 
 ### Cuppa
 
-> Tea Timer
-
 <img alt="CuppaIcon" height="64" src="https://www.nathanatos.com/software/images/Cuppa_hires_default.png">
+
+> Tea Timer — beautiful minimal timer with preset tea types
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.nathanatos.Cuppa)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.nathanatos.Cuppa/)
 - [x] [GitHub](https://github.com/ncosgray/cuppa_mobile)
 - [x] [Official page](https://www.nathanatos.com/)
 
-## To-Do List
+</details>
 
-### Tasks️
+---
 
-<img alt="Tasks️Icon" height="64" src="https://raw.githubusercontent.com/tasks/tasks/main/graphics/round_icon.svg">
+<details>
+<summary><h2>✅ To-Do List</h2></summary>
+
+### Tasks
+
+<img alt="TasksIcon" height="64" src="https://raw.githubusercontent.com/tasks/tasks/main/graphics/round_icon.svg">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.tasks)
 - [x] [F-Droid](https://f-droid.org/packages/org.tasks)
@@ -2231,15 +2996,6 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/DarkMooNight/ToDark)
 - [ ] Official page
 
-### Doable
-
-<img alt="DoableIcon" height="64" src="https://codeberg.org/florian-obernberger/flutter-doable/media/branch/main/assets/app_icons/app_icon.png">
-
-- [ ] Google Play
-- [x] [F-Droid](https://codeberg.org/florian-obernberger/fdroid-repo)
-- [x] [Codeberg](https://codeberg.org/florian-obernberger/flutter-doable)
-- [ ] Official page
-
 ### 1List
 
 <img alt="1ListIcon" height="64" src="https://raw.githubusercontent.com/lolo-io/OneList/develop/icon.png">
@@ -2249,7 +3005,12 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/lolo-io/OneList)
 - [ ] Official page
 
-## Torrenting
+</details>
+
+---
+
+<details>
+<summary><h2>🌊 Torrenting</h2></summary>
 
 ### LibreTorrent :heart:
 
@@ -2260,57 +3021,29 @@ Currently being reworked as Neo Launcher.
 - [x] [GitLab](https://gitlab.com/proninyaroslav/libretorrent)
 - [ ] Official page
 
-## Trackers
+</details>
 
-### BetterCounter
+---
 
-> Multi-purpose Tracker
-
-<img alt="BetterCounterIcon" height="64" src="https://github.com/albertvaka/bettercounter/raw/main/app/src/main/res/mipmap-xhdpi/ic_launcher.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=org.kde.bettercounter)
-- [x] [F-Droid](https://f-droid.org/en/packages/org.kde.bettercounter/)
-- [x] [GitHub](https://github.com/albertvaka/bettercounter)
-- [ ] Official page
+<details>
+<summary><h2>📊 Trackers</h2></summary>
 
 ### Birday :heart:
 
-> Birthday Tracker
-
 <img alt="BirdayIcon" height="64" src="https://raw.githubusercontent.com/m-i-n-a-r/birday/master/fastlane/metadata/android/en-US/images/icon.png">
+
+> Birthday & anniversary tracker — smart reminders with contact integration
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.minar.birday)
 - [x] [F-Droid](https://f-droid.org/packages/com.minar.birday/)
 - [x] [GitHub](https://github.com/m-i-n-a-r/birday)
 - [ ] Official page
 
-### GreenStash️ :heart:
-
-> Savings Tracker
-
-<img alt="GreenStash️Icon" height="64" src="https://raw.githubusercontent.com/Pool-Of-Tears/GreenStash/main/fastlane/metadata/android/en-US/images/icon.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.starry.greenstash)
-- [x] [F-Droid](https://f-droid.org/packages/com.starry.greenstash/)
-- [x] [GitHub](https://github.com/Pool-Of-Tears/GreenStash)
-- [ ] Official page
-
-### Koduko
-
-> Habit Tracker
-
-<img alt="KodukoIcon" height="64" src="https://raw.githubusercontent.com/Mazahir26/koduko/master/assets/icon/icon.png">
-
-- [ ] Google Play
-- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.example.koduko)
-- [x] [GitHub](https://github.com/Mazahir26/koduko)
-- [ ] Official page
-
 ### Loop :heart:
 
-> Habit Tracker
-
 <img alt="LoopHabitTrackerIcon" height="64" src="https://raw.githubusercontent.com/iSoron/uhabits/dev/uhabits-android/src/main/res/drawable/intro_icon_1.png">
+
+> Habit Tracker — streaks, scores, charts and reminders
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.isoron.uhabits)
 - [x] [F-Droid](https://f-droid.org/app/org.isoron.uhabits)
@@ -2319,86 +3052,75 @@ Currently being reworked as Neo Launcher.
 
 ### Habo
 
-> Habit Tracker
-
 <img alt="HaboIcon" height="64" src="https://raw.githubusercontent.com/xpavle00/Habo/master/assets/images/icon.png">
+
+> Habit Tracker — minimal design with streak visualization
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.pavlenko.Habo)
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.pavlenko.Habo)
 - [x] [GitHub](https://github.com/xpavle00/Habo)
 - [x] [Official page](https://habo.space/)
 
-### Table Habit
+### GreenStash :heart:
 
-> Habit Tracker
+<img alt="GreenStashIcon" height="64" src="https://raw.githubusercontent.com/Pool-Of-Tears/GreenStash/main/fastlane/metadata/android/en-US/images/icon.png">
 
-<img alt="TableHabitIcon" height="64" src="https://raw.githubusercontent.com/FriesI23/mhabit/main/assets/logo/icon.svg">
+> Savings Goal Tracker — visualize progress towards financial targets
 
-- [x] [Google Play](https://play.google.com/store/apps/details?id=io.github.friesi23.mhabit)
-- [x] [F-Droid](https://f-droid.org/packages/io.github.friesi23.mhabit)
-- [x] [Github](https://github.com/FriesI23/mhabit)
-- [x] [Official page](https://github.com/FriesI23/mhabit)
-
-### Openreads
-
-> Books Tracker
-
-<img alt="OpenreadsIcon" height="64" src="https://f-droid.org/repo/software.mdev.bookstracker/en-US/icon_K4sqLCktmYBP1u6ghL4z56YR6nJgZUnxkdx63wmoDWI=.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=software.mdev.bookstracker)
-- [x] [F-Droid](https://f-droid.org/en/packages/software.mdev.bookstracker/)
-- [x] [GitHub](https://github.com/mateusz-bak/openreads-android)
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.starry.greenstash)
+- [x] [F-Droid](https://f-droid.org/packages/com.starry.greenstash/)
+- [x] [GitHub](https://github.com/Pool-Of-Tears/GreenStash)
 - [ ] Official page
-
-### Showly :heart:
-
-> TV Shows Tracker
-
-<img alt="ShowlyIcon" height="64" src="https://raw.githubusercontent.com/michaldrabik/showly-2.0/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.michaldrabik.showly2)
-- [ ] F-Droid
-- [x] [GitHub](https://github.com/michaldrabik/Showly-2.0)
-- [x] [Official page](http://showlyapp.com/)
 
 ### Simple Time Tracker :heart:
 
-> Activity Tracker
-
 <img alt="SimpleTimeTrackerIcon" height="64" src="https://f-droid.org/repo/com.razeeman.util.simpletimetracker/en-US/icon_-7PAZOv0fNugVQIIfZE4O4sDSkjwU3CkZmC2g5crWWA=.png">
+
+> Activity / Time Tracker — log time spent on any activity with statistics
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.razeeman.util.simpletimetracker)
 - [x] [F-Droid](https://f-droid.org/packages/com.razeeman.util.simpletimetracker/)
 - [x] [GitHub](https://github.com/Razeeman/Android-SimpleTimeTracker)
 - [ ] Official page
 
-### Sobriety
+### Showly :heart:
 
-> Addiction Tracker
+<img alt="ShowlyIcon" height="64" src="https://raw.githubusercontent.com/michaldrabik/showly-2.0/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
 
-<img alt="SobrietyIcon" height="64" src="https://raw.githubusercontent.com/KiARC/Sobriety/master/app/src/main/res/mipmap-xxxhdpi/sobriety.png">
+> TV Shows Tracker — mark watched episodes, manage watchlist
 
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/en/packages/com.katiearose.sobriety/)
-- [x] [GitHub](https://github.com/KiARC/Sobriety)
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.michaldrabik.showly2)
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/michaldrabik/Showly-2.0)
+- [x] [Official page](https://showlyapp.com/)
+
+### Openreads
+
+<img alt="OpenreadsIcon" height="64" src="https://f-droid.org/repo/software.mdev.bookstracker/en-US/icon_K4sqLCktmYBP1u6ghL4z56YR6nJgZUnxkdx63wmoDWI=.png">
+
+> Books Tracker — reading lists, reading statistics, Open Library integration
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=software.mdev.bookstracker)
+- [x] [F-Droid](https://f-droid.org/en/packages/software.mdev.bookstracker/)
+- [x] [GitHub](https://github.com/mateusz-bak/openreads-android)
 - [ ] Official page
 
-### Vacation Days
+### Trackbook :heart:
 
-> Days Off Tracker
+<img alt="TrackbookIcon" height="64" src="https://codeberg.org/y20k/trackbook/raw/branch/master/metadata/en-US/images/icon.png">
 
-<img alt="VacationDaysIcon" height="64" src="https://raw.githubusercontent.com/Crazy-Marvin/VacationDays/development/fastlane/metadata/android/en-US/images/icon.png">
+> Movement / Running Tracker — GPS tracks, no account, offline-first
 
-- [x] [Google Play](https://play.google.com/store/apps/details?id=rocks.poopjournal.vacationdays)
-- [x] [F-Droid](https://f-droid.org/packages/rocks.poopjournal.vacationdays/)
-- [x] [GitHub](https://github.com/Crazy-Marvin/VacationDays)
-- [x] [Official page](https://crazymarvin.com/vacation-days/)
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/org.y20k.trackbook/)
+- [x] [Codeberg](https://codeberg.org/y20k/trackbook)
+- [ ] Official page
 
 ### drip
 
-> Menstrual Cycle Tracker
-
 <img alt="dripIcon" height="64" src="https://gitlab.com/bloodyhealth/drip/-/raw/main/metadata/en-US/images/icon.png">
+
+> Menstrual Cycle Tracker — fully open, no data sent anywhere
 
 - [x] [Google Play](https://bloodyhealth.gitlab.io/android.html)
 - [x] [F-Droid](https://bloodyhealth.gitlab.io/fdroid.html)
@@ -2407,67 +3129,83 @@ Currently being reworked as Neo Launcher.
 
 ### Plees Tracker
 
-> Sleep Tracker
+<img alt="PleesTrackerIcon" height="64" src="https://raw.githubusercontent.com/vmiklos/plees-tracker/master/app/src/main/ic_launcher-web.png">
 
-<img alt="PleesIcon" height="64" src="https://raw.githubusercontent.com/vmiklos/plees-tracker/master/app/src/main/ic_launcher-web.png">
+> Sleep Tracker — log sleep start/end, view averages and graphs
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/hu.vmiklos.plees_tracker/)
 - [x] [GitHub](https://github.com/vmiklos/plees-tracker)
 - [x] [Official page](https://vmiklos.hu/plees-tracker/)
 
-### Trackbook :heart:
+### BetterCounter
 
-> Movement Tracker
+<img alt="BetterCounterIcon" height="64" src="https://github.com/albertvaka/bettercounter/raw/main/app/src/main/res/mipmap-xhdpi/ic_launcher.png">
 
-<img alt="TrackbookIcon" height="64" src="https://codeberg.org/y20k/trackbook/raw/branch/master/metadata/en-US/images/icon.png">
+> Multi-purpose Counter / Tracker — count anything, set goals, view history
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.kde.bettercounter)
+- [x] [F-Droid](https://f-droid.org/en/packages/org.kde.bettercounter/)
+- [x] [GitHub](https://github.com/albertvaka/bettercounter)
+- [ ] Official page
+
+### Sobriety
+
+<img alt="SobrietyIcon" height="64" src="https://raw.githubusercontent.com/KiARC/Sobriety/master/app/src/main/res/mipmap-xxxhdpi/sobriety.png">
+
+> Addiction Tracker — track sober days, set milestones, stay motivated
 
 - [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/packages/org.y20k.trackbook/)
-- [x] [Codeberg](https://codeberg.org/y20k/trackbook)
+- [x] [F-Droid](https://f-droid.org/en/packages/com.katiearose.sobriety/)
+- [x] [GitHub](https://github.com/KiARC/Sobriety)
 - [ ] Official page
 
 ### Screen Time
 
-> Screen Timer tracker
+<img alt="ScreenTimeIcon" height="64" src="https://raw.githubusercontent.com/markusfisch/ScreenTime/refs/heads/master/svg/google_play_icon.svg">
 
-<img alt="ScreenTimerIcon" height="64" src="https://raw.githubusercontent.com/markusfisch/ScreenTime/refs/heads/master/svg/google_play_icon.svg">
+> Screen Usage Tracker — monitor how much time you spend on your device
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/de.markusfisch.android.screentime/)
-- [x] [Codeberg](https://github.com/markusfisch/ScreenTime)
+- [x] [GitHub](https://github.com/markusfisch/ScreenTime)
 - [ ] Official page
 
-## Translator
+</details>
 
-### Arna Translate
+---
 
-<img alt="ArnaTranslateIcon" height="64" src="https://user-images.githubusercontent.com/16052180/171461601-8b58706b-12d4-4131-97ad-1580fd5ba580.png">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/en/packages/com.simplytranslate_mobile/)
-- [x] [GitHub](https://manerakai.github.io/simplytranslate_mobile/index.html)
-- [ ] Official page
-
-### DeepL
-
-<img alt="DeepLIcon" height="64" src="https://raw.githubusercontent.com/sakusaku3939/DeepLAndroid/master/app/src/main/ic_launcher-playstore.png">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/packages/com.example.deeplviewer/)
-- [x] [GitHub](https://github.com/sakusaku3939/DeepLAndroid)
-- [ ] Official page
+<details>
+<summary><h2>🌐 Translator</h2></summary>
 
 ### SimplyTranslate Mobile :heart:
 
 <img alt="SimplyTranslateMobileIcon" height="64" src="https://github.com/ManeraKai/simplytranslate_mobile/raw/main/fastlane/metadata/android/en-US/images/icon.png">
+
+> Privacy-respecting translator using multiple free engines
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/com.simplytranslate_mobile/)
 - [x] [GitHub](https://github.com/ManeraKai/simplytranslate_mobile)
 - [x] [Official page](https://manerakai.github.io/simplytranslate_mobile/index.html)
 
-## Twitch
+### DeepL
+
+<img alt="DeepLIcon" height="64" src="https://raw.githubusercontent.com/sakusaku3939/DeepLAndroid/master/app/src/main/ic_launcher-playstore.png">
+
+> Unofficial DeepL client — one of the best translation quality available
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/com.example.deeplviewer/)
+- [x] [GitHub](https://github.com/sakusaku3939/DeepLAndroid)
+- [ ] Official page
+
+</details>
+
+---
+
+<details>
+<summary><h2>🎮 Twitch</h2></summary>
 
 ### Twire
 
@@ -2491,12 +3229,46 @@ Currently being reworked as Neo Launcher.
 
 <img alt="FrostyIcon" height="64" src="https://raw.githubusercontent.com/tommyxchow/frosty/d49cdb2c79a078409dde8dc9b241aec6ec4abbd1/assets/icons/logo.svg">
 
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.tommychow.frosty&hl=en_US&gl=US)
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.tommychow.frosty)
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/tommyxchow/frosty)
 - [x] [Official page](https://www.frostyapp.io/)
 
-## Unit Converter
+</details>
+
+---
+
+<details>
+<summary><h2>🐦 Twitter / X ⭐</h2></summary>
+
+### Squawker
+
+<img alt="SquawkerIcon" height="64" src="https://raw.githubusercontent.com/j-fbriere/squawker/master/fastlane/metadata/android/en-US/images/icon.png">
+
+> Open-source Twitter/X client — no ads, no tracking, no account required
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/org.ca.squawker/)
+- [x] [GitHub](https://github.com/j-fbriere/squawker)
+- [ ] Official page
+
+### Fritter
+
+<img alt="FritterIcon" height="64" src="https://raw.githubusercontent.com/jonjomckay/fritter/main/assets/logo/fritter.svg">
+
+> Privacy-friendly Twitter/X browsing — no account, no tracking
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/com.jonjomckay.fritter/)
+- [x] [GitHub](https://github.com/jonjomckay/fritter)
+- [x] [Official page](https://fritter.cc/)
+
+</details>
+
+---
+
+<details>
+<summary><h2>📏 Unit Converter</h2></summary>
 
 ### Converter NOW
 
@@ -2507,18 +3279,30 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/ferraridamiano/ConverterNOW)
 - [x] [Official page](https://converter-now.web.app/)
 
-## URL Cleaner
+</details>
+
+---
+
+<details>
+<summary><h2>🔗 URL Cleaner</h2></summary>
 
 ### Léon
 
-<img alt="Léon" height="64" src="https://raw.githubusercontent.com/svenjacobs/leon/main/etc/ic_launcher.svg">
+<img alt="LéonIcon" height="64" src="https://raw.githubusercontent.com/svenjacobs/leon/main/etc/ic_launcher.svg">
+
+> Strip tracking parameters from URLs automatically before opening them
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/com.svenjacobs.app.leon/)
 - [x] [GitHub](https://github.com/svenjacobs/leon)
 - [ ] Official page
 
-## Video Player
+</details>
+
+---
+
+<details>
+<summary><h2>🎬 Video Player</h2></summary>
 
 ### VLC :heart:
 
@@ -2528,15 +3312,6 @@ Currently being reworked as Neo Launcher.
 - [x] [F-Droid](https://www.f-droid.org/en/packages/org.videolan.vlc/)
 - [x] [GitLab](https://code.videolan.org/videolan/vlc-android)
 - [x] [Official page](https://www.videolan.org/)
-
-### Just (Video) Player
-
-<img alt="Just(Video)PlayerIcon" height="64" src="https://raw.githubusercontent.com/moneytoo/Player/master/fastlane/metadata/android/en-US/images/icon.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.brouken.player)
-- [x] [F-Droid](https://f-droid.org/en/packages/com.brouken.player/)
-- [x] [GitHub](https://github.com/moneytoo/Player)
-- [ ] Official page
 
 ### mpv :heart:
 
@@ -2549,27 +3324,41 @@ Currently being reworked as Neo Launcher.
 
 ### mpvKt :heart:
 
-> A media player based on the popular commandline media player mpv.
-
 <img alt="mpvKtIcon" height="64" src="https://raw.githubusercontent.com/abdallahmehiz/mpvKt/main/.github/assets/app_icon.svg">
+
+> Modern mpv client with Material You UI
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/live.mehiz.mpvkt/)
 - [x] [GitHub](https://github.com/abdallahmehiz/mpvKt)
 - [ ] Official page
 
+### Just (Video) Player
+
+<img alt="Just(Video)PlayerIcon" height="64" src="https://raw.githubusercontent.com/moneytoo/Player/master/fastlane/metadata/android/en-US/images/icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.brouken.player)
+- [x] [F-Droid](https://f-droid.org/en/packages/com.brouken.player/)
+- [x] [GitHub](https://github.com/moneytoo/Player)
+- [ ] Official page
+
 ### NOVA Video Player
 
-> Video player for local/network content with subtitle/metadata download support
-
 <img alt="NOVAVideoPlayerIcon" height="64" src="https://raw.githubusercontent.com/nova-video-player/aos-AVP/refs/heads/nova/faq/logo.png">
+
+> Local/network video player with subtitle download and metadata scraping
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.courville.nova)
 - [x] [F-Droid](https://f-droid.org/en/packages/org.courville.nova/)
 - [x] [GitHub](https://github.com/nova-video-player/aos-AVP)
 - [x] [Official page](https://home.courville.org/nova_video_player-faq/index.html)
 
-## VNC client
+</details>
+
+---
+
+<details>
+<summary><h2>🖥️ VNC Client</h2></summary>
 
 ### AVNC :heart:
 
@@ -2580,7 +3369,12 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/gujjwal00/avnc)
 - [ ] Official page
 
-## VNC server
+</details>
+
+---
+
+<details>
+<summary><h2>📡 VNC Server</h2></summary>
 
 ### droidVNC-NG
 
@@ -2591,16 +3385,12 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/bk138/droidVNC-NG)
 - [ ] Official page
 
-## Voice Recorder
+</details>
 
-### Audio Recorder
+---
 
-<img alt="AudioRecorderIcon" height="64" src="https://github.com/Dimowner/AudioRecorder/raw/master/app/src/releaseConfig/res/mipmap-xxxhdpi/audio_recorder_logo.png">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/en/packages/com.dimowner.audiorecorder/)
-- [x] [GitHub](https://github.com/Dimowner/AudioRecorder)
-- [ ] Official page
+<details>
+<summary><h2>🎤 Voice Recorder</h2></summary>
 
 ### Fossify Voice Recorder
 
@@ -2611,51 +3401,90 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/FossifyOrg/Voice-Recorder)
 - [x] [Official page](https://www.fossify.org/)
 
-## Weather
+### Audio Recorder
 
-### Breezy Weather
-
-<img alt="BreezyWeatherIcon" height="64" src="https://github.com/breezy-weather/breezy-weather/raw/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp">
+<img alt="AudioRecorderIcon" height="64" src="https://github.com/Dimowner/AudioRecorder/raw/master/app/src/releaseConfig/res/mipmap-xxxhdpi/audio_recorder_logo.png">
 
 - [ ] Google Play
-- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.breezyweather)
-- [x] [GitHub](https://github.com/breezy-weather/breezy-weather)
+- [x] [F-Droid](https://f-droid.org/en/packages/com.dimowner.audiorecorder/)
+- [x] [GitHub](https://github.com/Dimowner/AudioRecorder)
 - [ ] Official page
 
-### Pluvia Weather
+</details>
 
-<img alt="PluviaWeatherIcon" height="64" src="https://raw.githubusercontent.com/SpicyChair/pluvia_weather_flutter/master/android/app/src/main/ic_launcher-playstore.png">
+---
 
-- [ ] Google Play
+<details>
+<summary><h2>🛡️ VPN ⭐</h2></summary>
+
+### ProtonVPN
+
+<img alt="ProtonVPNIcon" height="64" src="https://raw.githubusercontent.com/ProtonVPN/android-app/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
+
+> Open-source, audited, no-log VPN — Swiss privacy jurisdiction
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=ch.protonvpn.android)
+- [x] [F-Droid](https://f-droid.org/packages/ch.protonvpn.android/)
+- [x] [GitHub](https://github.com/ProtonVPN/android-app)
+- [x] [Official page](https://protonvpn.com/)
+
+### Mullvad VPN
+
+<img alt="MullvadIcon" height="64" src="https://raw.githubusercontent.com/mullvad/mullvadvpn-app/main/graphics/icon-round.png">
+
+> Privacy-first VPN — no logs, no account email needed, proven in court
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=net.mullvad.mullvadvpn)
 - [ ] F-Droid
-- [x] [GitHub](https://github.com/SpicyChair/pluvia_weather_flutter)
+- [x] [GitHub](https://github.com/mullvad/mullvadvpn-app)
+- [x] [Official page](https://mullvad.net/)
+
+### WireGuard
+
+<img alt="WireGuardIcon" height="64" src="https://raw.githubusercontent.com/WireGuard/wireguard-android/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
+
+> Fast, modern, secure VPN protocol — use with any WireGuard-compatible server
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.wireguard.android)
+- [x] [F-Droid](https://f-droid.org/packages/com.wireguard.android/)
+- [x] [GitHub](https://github.com/WireGuard/wireguard-android)
+- [x] [Official page](https://www.wireguard.com/)
+
+</details>
+
+---
+
+<details>
+<summary><h2>👛 Wallet</h2></summary>
+
+### fWallet
+
+<img alt="fWalletIcon" height="64" src="https://gitlab.com/TheOneWithTheBraid/f_wallet/-/raw/main/assets/logo/logo-circle.svg">
+
+> Transport tickets, discount cards and subscriptions wallet
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/business.braid.f_wallet/)
+- [x] [GitLab](https://gitlab.com/TheOneWithTheBraid/f_wallet)
 - [ ] Official page
 
-### Clima
+</details>
 
-<img alt="ClimaIcon" height="64" src="https://raw.githubusercontent.com/Lacerte/clima/master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
+---
 
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/en/packages/co.prestosole.clima/)
-- [x] [GitHub](https://codeberg.org/Lacerte/clima)
-- [x] [Official page](https://lacerte.github.io/clima/)
+<details>
+<summary><h2>🌤️ Weather</h2></summary>
 
-### Forecastie
+### Breezy Weather :heart:
 
-<img alt="ForecastieIcon" height="64" src="https://raw.githubusercontent.com/martykan/forecastie/master/icon.png">
+<img alt="BreezyWeatherIcon" height="64" src="https://raw.githubusercontent.com/breezy-weather/breezy-weather/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp">
 
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/en/packages/cz.martykan.forecastie/)
-- [x] [GitHub](https://github.com/martykan/forecastie)
-- [ ] Official page
-
-### Veterondo
-
-<img alt="VeterondoIcon" height="64" src="https://f-droid.org/repo/icons-640/com.saladdressing.veterondo.13.png">
+> Feature-rich weather app — 50+ sources, 16-day forecast, air quality, pollen, alerts
 
 - [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/en/packages/com.saladdressing.veterondo/)
-- [x] [GitHub](https://github.com/Antonis427/veterondo)
+- [x] [F-Droid](https://f-droid.org/packages/org.breezyweather/)
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.breezyweather) *(latest version)*
+- [x] [GitHub](https://github.com/breezy-weather/breezy-weather)
 - [ ] Official page
 
 ### Rain
@@ -2676,20 +3505,39 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/woheller69/omweather)
 - [ ] Official page
 
-## Wallet
+### Clima
 
-### fWallet
-
-> A beautiful cross-platform wallet application for your transport tickets, discount cards and subscriptions.
-
-<img alt="fWalletIcon" height="64" src="https://gitlab.com/TheOneWithTheBraid/f_wallet/-/raw/main/assets/logo/logo-circle.svg">
+<img alt="ClimaIcon" height="64" src="https://raw.githubusercontent.com/Lacerte/clima/master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
 
 - [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/packages/business.braid.f_wallet/)
-- [x] [GitLab](https://gitlab.com/TheOneWithTheBraid/f_wallet)
+- [x] [F-Droid](https://f-droid.org/en/packages/co.prestosole.clima/)
+- [x] [Codeberg](https://codeberg.org/Lacerte/clima)
+- [x] [Official page](https://lacerte.github.io/clima/)
+
+### Forecastie
+
+<img alt="ForecastieIcon" height="64" src="https://raw.githubusercontent.com/martykan/forecastie/master/icon.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/cz.martykan.forecastie/)
+- [x] [GitHub](https://github.com/martykan/forecastie)
 - [ ] Official page
 
-## Wikipedia
+### Veterondo
+
+<img alt="VeterondoIcon" height="64" src="https://f-droid.org/repo/icons-640/com.saladdressing.veterondo.13.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/com.saladdressing.veterondo/)
+- [x] [GitHub](https://github.com/Antonis427/veterondo)
+- [ ] Official page
+
+</details>
+
+---
+
+<details>
+<summary><h2>📖 Wikipedia</h2></summary>
 
 ### Wikipedia
 
@@ -2704,12 +3552,19 @@ Currently being reworked as Neo Launcher.
 
 <img alt="KiwixIcon" height="64" src="https://raw.githubusercontent.com/kiwix/kiwix-android/main/ic_launcher-web.png">
 
+> Offline access to Wikipedia, Project Gutenberg, Stack Exchange and more
+
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.kiwix.kiwixmobile)
 - [x] [F-Droid](https://f-droid.org/packages/org.kiwix.kiwixmobile/)
 - [x] [GitHub](https://github.com/kiwix/kiwix-android)
 - [x] [Official page](https://www.kiwix.org)
 
-## Workout
+</details>
+
+---
+
+<details>
+<summary><h2>💪 Workout</h2></summary>
 
 ### Feeel - home workouts
 
@@ -2729,7 +3584,22 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/blockbasti/just_another_workout_timer)
 - [ ] Official page
 
-## YouTube
+
+### RunnerUp
+
+<img alt="RunnerUpIcon" height="64" src="https://raw.githubusercontent.com/jonasoreland/runnerup/master/app/src/main/res/mipmap-xxxhdpi/icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.runnerup.free)
+- [x] [F-Droid](https://f-droid.org/app/org.runnerup.free)
+- [x] [GitHub](https://github.com/jonasoreland/runnerup)
+- [ ] Official page
+
+</details>
+
+---
+
+<details>
+<summary><h2>▶️ YouTube</h2></summary>
 
 ### NewPipe :heart:
 
@@ -2744,27 +3614,77 @@ Currently being reworked as Neo Launcher.
 
 <img alt="TubularIcon" height="64" src="https://raw.githubusercontent.com/polymorphicshade/Tubular/master/app/src/main/res/mipmap-hdpi/ic_launcher.png">
 
+> NewPipe fork with SponsorBlock and Return YouTube Dislike built in
+
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.polymorphicshade.tubular)
 - [x] [GitHub](https://github.com/polymorphicshade/Tubular)
+- [ ] Official page
+
+### LibreTube
+
+<img alt="LibreTubeIcon" height="64" src="https://raw.githubusercontent.com/libre-tube/LibreTube/master/fastlane/metadata/android/en-US/images/icon.png">
+
+> YouTube frontend using Piped — no Google tracking
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/com.github.libretube/)
+- [x] [GitHub](https://github.com/libre-tube/LibreTube)
+- [x] [Official page](https://libre-tube.github.io/)
+
+### Clipious :heart:
+
+<img alt="ClipiousIcon" height="64" src="https://raw.githubusercontent.com/lamarios/clipious/9d8f8f039a38ab27ea34e0ef28ddad1f22c4de91/assets/icon.svg">
+
+> Invidious client — watch YouTube without Google's infrastructure
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/com.github.lamarios.clipious/)
+- [x] [GitHub](https://github.com/lamarios/clipious)
 - [ ] Official page
 
 ### PipePipe
 
 <img alt="PipePipeIcon" height="64" src="https://raw.githubusercontent.com/InfinityLoop1308/PipePipe/main/fastlane/metadata/android/en-US/images/icon.png">
 
+> NewPipe fork with NicoNico and BiliBili support added
+
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/InfinityLoop1309.NewPipeEnhanced/)
 - [x] [GitHub](https://github.com/InfinityLoop1308/PipePipe)
 - [ ] Official page
 
-### Clipious :heart:
+### RiMusic
 
-<img alt="ClipiousIcon" height="64" src="https://raw.githubusercontent.com/lamarios/clipious/9d8f8f039a38ab27ea34e0ef28ddad1f22c4de91/assets/icon.svg">
+<img alt="RiMusicIcon" height="64" src="https://raw.githubusercontent.com/fast4x/RiMusic/00147116bdf6d0bbe7d855dd903576c692a0a616/assets/design/icon.svg">
+
+> Stream YouTube Music — no account, no ads, offline downloads
 
 - [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/packages/com.github.lamarios.clipious/)
-- [x] [GitHub](https://github.com/lamarios/clipious)
+- [x] [F-Droid](https://f-droid.org/it/packages/it.fast4x.rimusic/)
+- [x] [GitHub](https://github.com/fast4x/RiMusic)
+- [x] [Official page](https://rimusic.xyz/)
+
+### YTDLnis :heart:
+
+<img alt="YTDLnisIcon" height="64" src="https://github.com/deniscerri/ytdlnis/raw/main/fastlane/metadata/android/en-US/images/icon.png">
+
+> yt-dlp GUI — download from YouTube and 1000+ other sites
+
+- [ ] Google Play
+- [x] [IzzyOnDroid](https://android.izzysoft.de/repo/apk/com.deniscerri.ytdl)
+- [x] [GitHub](https://github.com/deniscerri/ytdlnis)
+- [ ] Official page
+
+### Seal
+
+<img alt="SealIcon" height="64" src="https://github.com/JunkFood02/Seal/raw/main/fastlane/metadata/android/en-US/images/icon.png">
+
+> Clean yt-dlp downloader — video, audio, subtitles, format picker
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/com.junkfood.seal/)
+- [x] [GitHub](https://github.com/JunkFood02/Seal)
 - [ ] Official page
 
 ### SkyTube
@@ -2776,62 +3696,21 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/SkyTubeTeam/SkyTube)
 - [ ] Official page
 
-### LibreTube
+</details>
 
-<img alt="LibreTubeIcon" height="64" src="https://raw.githubusercontent.com/libre-tube/LibreTube/master/fastlane/metadata/android/en-US/images/icon.png">
+---
 
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/en/packages/com.github.libretube/)
-- [x] [GitHub](https://github.com/libre-tube/LibreTube)
-- [x] [Official page](https://libre-tube.github.io/)
+## 🙏 Special Thanks To
 
-### SongTube
+### AWESOME PEOPLE that developed or still develop this AWESOME SOFTWARE.
 
-<img alt="SongTubeIcon" height="64" src="https://raw.githubusercontent.com/SongTube/SongTube-App/development/assets/images/ic_launcher.png">
-
-- [ ] Google Play
-- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.artxdev.songtube)
-- [x] [GitHub](https://github.com/SongTube/SongTube-App)
-- [x] [Official page](https://songtube.github.io/)
-
-### RiMusic
-
-<img alt="RiMusicIcon" height="64" src="https://raw.githubusercontent.com/fast4x/RiMusic/00147116bdf6d0bbe7d855dd903576c692a0a616/assets/design/icon.svg">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/it/packages/it.fast4x.rimusic/)
-- [x] [GitHub](https://github.com/fast4x/RiMusic)
-- [x] [Official page](https://rimusic.xyz/)
-
-### YTDLnis :heart:
-
-<img alt="YTDLnisIcon" height="64" src="https://github.com/deniscerri/ytdlnis/raw/main/fastlane/metadata/android/en-US/images/icon.png">
-
-- [ ] Google Play
-- [x] [IzzyOnDroid](https://android.izzysoft.de/repo/apk/com.deniscerri.ytdl)
-- [x] [GitHub](https://github.com/deniscerri/ytdlnis)
-- [ ] Official page
-
-### Seal
-
-<img alt="SealIcon" height="64" src="https://github.com/JunkFood02/Seal/raw/main/fastlane/metadata/android/en-US/images/icon.png">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/en/packages/com.junkfood.seal/)
-- [x] [GitHub](https://github.com/JunkFood02/Seal)
-- [ ] Official page
-
-## Special thanks to
-
-### AWESOME PEOPLE that developed or still develops this AWESOME SOFTWARE.
-
-### pluja/[awesome-privacy](https://github.com/pluja/awesome-privacy)
+### pluja / [awesome-privacy](https://github.com/pluja/awesome-privacy)
 
 <img alt="pluja/awesome-privacyIcon" width="256" src="https://github.com/pluja/awesome-privacy/raw/main/misc/logo.png">
 
-### offa/[android-foss](https://github.com/offa/android-foss)
+### offa / [android-foss](https://github.com/offa/android-foss)
 
-### JStumpp/[awesome-android](https://github.com/JStumpp/awesome-android)
+### JStumpp / [awesome-android](https://github.com/JStumpp/awesome-android)
 
 <img alt="JStumpp/awesome-androidIcon" width="256" src="https://raw.githubusercontent.com/jstumpp/awesome-android/master/awesome-android.png">
 
@@ -2854,5 +3733,7 @@ Currently being reworked as Neo Launcher.
 ### [Privacy Friendly Apps](https://secuso.aifb.kit.edu/english/105.php)
 
 <img alt="PrivacyFriendlyAppsIcon" width="256" src="https://secuso.aifb.kit.edu/img/csm_PrivacyFriendlyApps_Logo_dadc6afdff.png">
+
+---
 
 # [⬆ Go back ⬆](#contents)
