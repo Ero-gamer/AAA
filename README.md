@@ -402,7 +402,7 @@ UQAN5OUU7YjxFPEPP0-LC62lWL_CF_LqgVhz9qjbvzLhb74F
 
 ### Kotatsu Next ⭐
 
-<img alt="KotatsuIcon" height="64" src="https://raw.githubusercontent.com/Ero-gamer/Kotatsu-Next/devel/metadata/en-US/icon.png">
+<img alt="KotatsuIcon" height="64" src="https://raw.githubusercontent.com/Ero-gamer/Kotatsu-Next/refs/heads/devel/app/src/main/res/drawable-xxxhdpi/ic_launcher.webp">
 
 - [x] [GitHub](https://github.com/Ero-gamer/Kotatsu-Next)
 - [ ] Google Play
