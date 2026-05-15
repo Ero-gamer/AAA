@@ -400,9 +400,18 @@ UQAN5OUU7YjxFPEPP0-LC62lWL_CF_LqgVhz9qjbvzLhb74F
 <details>
 <summary><h2>📖 Anime & Manga</h2></summary>
 
-### Aniyomi :heart:
+### Kotatsu Next ⭐
 
-<img alt="AniyomiIcon" height="64" src="https://raw.githubusercontent.com/jmir1/aniyomi/master/.github/readme-images/app-icon.png">
+<img alt="KotatsuIcon" height="64" src="https://raw.githubusercontent.com/Ero-gamer/Kotatsu-Next/devel/metadata/en-US/icon.png">
+
+- [x] [GitHub](https://github.com/Ero-gamer/Kotatsu-Next)
+- [ ] Google Play
+- [ ] [F-Droid]
+- [ ] [Official page]
+
+### Aniyomi
+
+<img alt="AniyomiIcon" height="64" src="https://raw.githubusercontent.com/aniyomiorg/aniyomi/refs/heads/main/.github/assets/logo.png">
 
 > Full-featured manga + anime reader with extensions support
 
@@ -420,14 +429,6 @@ UQAN5OUU7YjxFPEPP0-LC62lWL_CF_LqgVhz9qjbvzLhb74F
 - [x] [GitHub](https://github.com/jobobby04/TachiyomiSY)
 - [ ] Official page
 
-### Kotatsu
-
-<img alt="KotatsuIcon" height="64" src="https://raw.githubusercontent.com/KotatsuApp/Kotatsu/devel/metadata/en-US/icon.png">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/packages/org.koitharu.kotatsu/)
-- [x] [GitHub](https://github.com/KotatsuApp/Kotatsu)
-- [x] [Official page](https://kotatsu.app/)
 
 </details>
 
