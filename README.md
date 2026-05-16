@@ -1,3 +1,10 @@
+[<img src="https://raw.githubusercontent.com/Ero-gamer/support-palestine-banner/master/banner-support.svg"
+alt='Tech For Palestine'
+width="100%">](https://techforpalestine.org/learn-more)
+<a>
+</a>
+<div align="center">
+
 <div align="center">
   <img src="img/AAA_long_plain.svg" width="60%" alt="Awesome Android Alternatives Banner">
 </div>
